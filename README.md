@@ -1,1 +1,1 @@
-cs5008 with Prof. Lee
+Nicholas Ung: ung.n@northeastern.edu
