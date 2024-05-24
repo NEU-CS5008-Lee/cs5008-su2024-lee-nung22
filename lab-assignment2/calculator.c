@@ -1,5 +1,5 @@
 // Name: Nicholas Ung
-// Email: ung.n@northeastern.edu]
+// Email: ung.n@northeastern.edu
 
 #include <stdio.h>
 
