@@ -1,5 +1,5 @@
-// name: <your name here>
-// email: <your email here>
+// Name: Nicholas Ung
+// Email: ung.n@northeastern.edu
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -37,6 +37,47 @@ char upperChar(char c){
 void quicky(char* data, int left, int right) {
 
   // ADD YOUR CODE HERE
+
+  // Base case: if the left index is greater than or equal to the right index, return
+  if (left >= right) {
+    return;
+  }
+
+  // Initialize variables to keep track of the left and right indices
+  int leftIdx = left;
+  int rightIdx = right;
+
+  // Pick the pivot as the middle element
+  char pivot = data[(left + right) / 2];
+
+  // Loop until the left index is greater than the right index
+  while (leftIdx <= rightIdx) {
+    // Increment the left index until the element at the left index is greater than the pivot
+    while (data[leftIdx] < pivot) {
+      leftIdx++;
+    }
+
+    // Decrement the right index until the element at the right index is less than the pivot
+    while (data[rightIdx] > pivot) {
+      rightIdx--;
+    }
+
+    // If the left index is less than or equal to the right index
+    if (leftIdx <= rightIdx) {
+      // Swap the elements at the left and right indices
+      char temp = data[leftIdx];
+      data[leftIdx] = data[rightIdx];
+      data[rightIdx] = temp;
+
+      // Increment the left index and decrement the right index
+      leftIdx++;
+      rightIdx--;
+    }
+  }
+
+  // Recursively sort the left and right subarrays
+  quicky(data, left, rightIdx);
+  quicky(data, leftIdx, right);
 
   return;
 }
