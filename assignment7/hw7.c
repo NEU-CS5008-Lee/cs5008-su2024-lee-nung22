@@ -1,11 +1,10 @@
-// name: <your name here>
-// email: <your email here>
+// Name: Nicholas Ung
+// Email: ung.n@northeastern.edu
 
 // format of document is a bunch of data lines beginning with an integer (rank which we ignore)
 // then a ',' followed by a double-quoted string (city name)
 // then a ',' followed by a double-quoted string (population) - ignore commas and covert to int; or (X) - convert to 0
 // then a lot of entries that are ignored
-
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -27,96 +26,204 @@
 #define ERRORSTATE 11
 
 // check if a character c is a digit
-bool isDigit(char c) {
-  if ('0' <= c && c <= '9') {
+bool isDigit(char c)
+{
+  if ('0' <= c && c <= '9')
+  {
     return true;
-  } else {
+  }
+  else
+  {
     return false;
   }
 }
 
 // append character c to string s
-void appendChar(char* s, char c) {
-  char charToStr[2];           // convert char to string
-    charToStr[0] = c;
-    charToStr[1] = '\0';          // put NUL to terminate string of one character
-    strcat(s, charToStr);
+void appendChar(char *s, char c)
+{
+  char charToStr[2]; // convert char to string
+  charToStr[0] = c;
+  charToStr[1] = '\0'; // put NUL to terminate string of one character
+  strcat(s, charToStr);
 }
 
+int main()
+{
 
+  char inputLine[MAXSTRING]; // temporary string to hold input line
+  char cityStr[MAXSTRING];   // city name
+  int lineNum;               // line number (city rank)
+  int popInt;                // population
+  int state;                 // FSM state
+  int nextChar;              // index of next character in input string
+  char temp[MAXSTRING];      // temp string to build up extracted strings from input characters
 
-int main () {
+  FILE *fp;
+  fp = fopen("pop.csv", "r");
 
-  char inputLine[MAXSTRING];   // temporary string to hold input line
-  char cityStr[MAXSTRING];     // city name
-  int  lineNum;                // line number (city rank)
-  int  popInt;                 // population
-  int  state;                  // FSM state
-  int  nextChar;               // index of next character in input string
-  char temp[MAXSTRING];        // temp string to build up extracted strings from input characters
-  
- 
-  FILE* fp;
-  fp = fopen("pop.csv","r");
-
-  if (fp != NULL) {
+  if (fp != NULL)
+  {
     fgets(inputLine, MAXSTRING, fp); // prime the pump for the first line
 
     // ***** BEGIN FINTITE STATE MACHINE *****
-    
+
     // STARTSTATE: digit -> S1
     // S1: digit -> S1; , -> S2
     // S2: " -> S3
     // S3: !" -> S3; " -> S4
     // S4: , -> S5
     // S5: " -> S6; ( -> ACCEPTSTATE
-    // S6: digit -> S6; , -> S6; " -> ACCEPTSTATE; 
+    // S6: digit -> S6; , -> S6; " -> ACCEPTSTATE;
     // ACCEPTSTATE: done!
     // else go to ERRORSTATE
     //
-    while (feof(fp) == 0){
+    while (feof(fp) == 0)
+    {
 
       nextChar = 0;
-      state = STARTSTATE; 
-      strcpy(temp,"");       // temp = ""
+      state = STARTSTATE;
+      strcpy(temp, ""); // temp = ""
 
-      if (nextChar >= strlen(inputLine)){
-	// if no input string then go to ERRORSTATE
-	state = ERRORSTATE;
-      } 
+      if (nextChar >= strlen(inputLine))
+      {
+        // if no input string then go to ERRORSTATE
+        state = ERRORSTATE;
+      }
 
-      while ((state != ERRORSTATE) && (state != ACCEPTSTATE)) {
-	switch (state) {
-	  case STARTSTATE:
-	    // look a digit to confirm a valid line
-	    if (isDigit(inputLine[nextChar])) {
-	      state = S1;
-	      appendChar(temp, inputLine[nextChar]);
-	    } else {
-	      state = ERRORSTATE;
-	    }  
-	    break;
+      while ((state != ERRORSTATE) && (state != ACCEPTSTATE))
+      {
+        switch (state)
+        {
+        case STARTSTATE:
+          // look a digit to confirm a valid line
+          if (isDigit(inputLine[nextChar]))
+          {
+            state = S1;
+            appendChar(temp, inputLine[nextChar]);
+          }
+          else
+          {
+            state = ERRORSTATE;
+          }
+          break;
 
+        // ADD YOUR CODE HERE
+        case S1:
+          // Check if the next character is a digit
+          if (isDigit(inputLine[nextChar]))
+          {
+            state = S1;
+            appendChar(temp, inputLine[nextChar]);
+          }
+          // Check if the next character is a comma
+          else if (inputLine[nextChar] == ',')
+          {
+            state = S2;
+          }
+          // If neither a digit nor a comma, go to ERRORSTATE
+          else
+          {
+            state = ERRORSTATE;
+          }
+          break;
+        
+        case S2:
+          // Check if the next character is a double quote
+          if (inputLine[nextChar] == '"')
+          {
+            state = S3;
+          }
+          // If not a double quote, go to ERRORSTATE
+          else
+          {
+            state = ERRORSTATE;
+          }
+          break;
+        
+        case S3:
+          // Check if the next character is a double quote
+          if (inputLine[nextChar] == '"')
+          {
+            state = S4;
+          }
+          // If not a double quote, continue appending characters to temp
+          else
+          {
+            state = S3;
+            appendChar(temp, inputLine[nextChar]);
+          }
+          break;
 
-	  // ADD YOUR CODE HERE
- 
-	    
-	  case ACCEPTSTATE:
-	    // nothing to do - we are done!
-	    break;
-	    
-	  default:
-	    state = ERRORSTATE;
-	    break;
-	} // end switch
+        case S4:
+          // Check if the next character is a comma
+          if (inputLine[nextChar] == ',')
+          {
+            state = S5;
+          }
+          // If not a comma, go to ERRORSTATE
+          else
+          {
+            state = ERRORSTATE;
+          }
+          break;
+        
+        case S5:
+          // Check if the next character is a double quote
+          if (inputLine[nextChar] == '"')
+          {
+            state = S6;
+          }
+          // Check if the next character is an opening parenthesis
+          else if (inputLine[nextChar] == '(')
+          {
+            state = ACCEPTSTATE;
+          }
+          // If neither a double quote nor an opening parenthesis, go to ERRORSTATE
+          else
+          {
+            state = ERRORSTATE;
+          }
+          break;
+        
+        case S6:
+          // Check if the next character is a digit
+          if (isDigit(inputLine[nextChar]))
+          {
+            state = S6;
+            appendChar(temp, inputLine[nextChar]);
+          }
+          // Check if the next character is a comma
+          else if (inputLine[nextChar] == ',')
+          {
+            state = S6;
+          }
+          // Check if the next character is a double quote
+          else if (inputLine[nextChar] == '"')
+          {
+            state = ACCEPTSTATE;
+          }
+          // If none of the above, go to ERRORSTATE
+          else
+          {
+            state = ERRORSTATE;
+          }
+          break;
 
-	// advance input
-	nextChar++;
-	
-      }	// end while state machine loop
+        case ACCEPTSTATE:
+          // nothing to do - we are done!
+          break;
+
+        default:
+          state = ERRORSTATE;
+          break;
+        } // end switch
+
+        // advance input
+        nextChar++;
+
+      } // end while state machine loop
 
       // ***** END FINITE STATE MACHINE *****
-	  
 
       // process the line - print out raw line and the parsed fields
       printf("> %.60s\n", inputLine);
@@ -124,15 +231,15 @@ int main () {
 
       // get next line
       fgets(inputLine, MAXSTRING, fp);
-      
+
     } // end while file input loop
-    
 
     fclose(fp);
-  
-  } else {
+  }
+  else
+  {
     printf("File not found!\n");
   }
-  
+
   return 0;
 }
