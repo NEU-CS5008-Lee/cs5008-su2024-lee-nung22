@@ -10,7 +10,6 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <string.h>
-#include <time.h>
 
 #define MAXSTRING 200
 
@@ -28,32 +27,36 @@
 // check if a character c is a digit
 bool isDigit(char c)
 {
-  if ('0' <= c && c <= '9')
-  {
-    return true;
-  }
-  else
-  {
-    return false;
-  }
+  return '0' <= c && c <= '9';
 }
 
 // append character c to string s
 void appendChar(char *s, char c)
 {
-  char charToStr[2]; // convert char to string
-  charToStr[0] = c;
-  charToStr[1] = '\0'; // put NUL to terminate string of one character
-  strcat(s, charToStr);
+  int len = strlen(s);
+  s[len] = c;
+  s[len + 1] = '\0';
+}
+
+// convert a population string to an integer
+int convertPopulation(const char *popStr)
+{
+  int pop = 0;
+  for (int i = 0; i < strlen(popStr); i++)
+  {
+    if (isDigit(popStr[i]))
+    {
+      pop = pop * 10 + (popStr[i] - '0');
+    }
+  }
+  return pop;
 }
 
 int main()
 {
-
   char inputLine[MAXSTRING]; // temporary string to hold input line
   char cityStr[MAXSTRING];   // city name
-  int lineNum;               // line number (city rank)
-  int popInt;                // population
+  char popStr[MAXSTRING];    // population string
   int state;                 // FSM state
   int nextChar;              // index of next character in input string
   char temp[MAXSTRING];      // temp string to build up extracted strings from input characters
@@ -63,30 +66,16 @@ int main()
 
   if (fp != NULL)
   {
-    fgets(inputLine, MAXSTRING, fp); // prime the pump for the first line
-
-    // ***** BEGIN FINTITE STATE MACHINE *****
-
-    // STARTSTATE: digit -> S1
-    // S1: digit -> S1; , -> S2
-    // S2: " -> S3
-    // S3: !" -> S3; " -> S4
-    // S4: , -> S5
-    // S5: " -> S6; ( -> ACCEPTSTATE
-    // S6: digit -> S6; , -> S6; " -> ACCEPTSTATE;
-    // ACCEPTSTATE: done!
-    // else go to ERRORSTATE
-    //
-    while (feof(fp) == 0)
+    while (fgets(inputLine, MAXSTRING, fp) != NULL)
     {
-
       nextChar = 0;
       state = STARTSTATE;
-      strcpy(temp, ""); // temp = ""
+      strcpy(temp, "");    // temp = ""
+      strcpy(cityStr, ""); // cityStr = ""
+      strcpy(popStr, "");  // popStr = ""
 
-      if (nextChar >= strlen(inputLine))
+      if (strlen(inputLine) == 0)
       {
-        // if no input string then go to ERRORSTATE
         state = ERRORSTATE;
       }
 
@@ -95,11 +84,9 @@ int main()
         switch (state)
         {
         case STARTSTATE:
-          // look a digit to confirm a valid line
           if (isDigit(inputLine[nextChar]))
           {
             state = S1;
-            appendChar(temp, inputLine[nextChar]);
           }
           else
           {
@@ -107,102 +94,83 @@ int main()
           }
           break;
 
-        // ADD YOUR CODE HERE
         case S1:
-          // Check if the next character is a digit
           if (isDigit(inputLine[nextChar]))
           {
             state = S1;
-            appendChar(temp, inputLine[nextChar]);
           }
-          // Check if the next character is a comma
           else if (inputLine[nextChar] == ',')
           {
             state = S2;
           }
-          // If neither a digit nor a comma, go to ERRORSTATE
           else
           {
             state = ERRORSTATE;
           }
           break;
-        
+
         case S2:
-          // Check if the next character is a double quote
           if (inputLine[nextChar] == '"')
           {
             state = S3;
           }
-          // If not a double quote, go to ERRORSTATE
           else
           {
             state = ERRORSTATE;
           }
           break;
-        
+
         case S3:
-          // Check if the next character is a double quote
           if (inputLine[nextChar] == '"')
           {
             state = S4;
           }
-          // If not a double quote, continue appending characters to temp
           else
           {
-            state = S3;
-            appendChar(temp, inputLine[nextChar]);
+            appendChar(cityStr, inputLine[nextChar]);
           }
           break;
 
         case S4:
-          // Check if the next character is a comma
           if (inputLine[nextChar] == ',')
           {
             state = S5;
           }
-          // If not a comma, go to ERRORSTATE
           else
           {
             state = ERRORSTATE;
           }
           break;
-        
+
         case S5:
-          // Check if the next character is a double quote
           if (inputLine[nextChar] == '"')
           {
             state = S6;
           }
-          // Check if the next character is an opening parenthesis
           else if (inputLine[nextChar] == '(')
           {
             state = ACCEPTSTATE;
+            strcpy(popStr, "0");
           }
-          // If neither a double quote nor an opening parenthesis, go to ERRORSTATE
           else
           {
             state = ERRORSTATE;
           }
           break;
-        
+
         case S6:
-          // Check if the next character is a digit
           if (isDigit(inputLine[nextChar]))
           {
-            state = S6;
-            appendChar(temp, inputLine[nextChar]);
+            appendChar(popStr, inputLine[nextChar]);
           }
-          // Check if the next character is a comma
           else if (inputLine[nextChar] == ',')
           {
-            state = S6;
+            // do nothing, stay in S6
           }
-          // Check if the next character is a double quote
           else if (inputLine[nextChar] == '"')
           {
             state = ACCEPTSTATE;
           }
-          // If none of the above, go to ERRORSTATE
           else
           {
             state = ERRORSTATE;
@@ -210,7 +178,6 @@ int main()
           break;
 
         case ACCEPTSTATE:
-          // nothing to do - we are done!
           break;
 
         default:
@@ -218,19 +185,16 @@ int main()
           break;
         } // end switch
 
-        // advance input
         nextChar++;
-
       } // end while state machine loop
 
-      // ***** END FINITE STATE MACHINE *****
-
-      // process the line - print out raw line and the parsed fields
-      printf("> %.60s\n", inputLine);
-      printf("[%.30s]: %d\n", cityStr, popInt);
-
-      // get next line
-      fgets(inputLine, MAXSTRING, fp);
+      // only process valid lines
+      if (state == ACCEPTSTATE)
+      {
+        int popInt = convertPopulation(popStr);
+        printf("> %.60s\n", inputLine);
+        printf("[%.30s]: %d\n", cityStr, popInt);
+      }
 
     } // end while file input loop
 
