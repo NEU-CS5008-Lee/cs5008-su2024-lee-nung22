@@ -1,0 +1,4779 @@
+
+***** HASH TABLE 1 *****
+
+========================
+TABLE[0]:
+
+TABLE[1]:
+
+TABLE[2]:
+
+TABLE[3]:
+
+TABLE[4]:
+
+TABLE[5]:
+
+TABLE[6]:
+
+TABLE[7]:
+
+TABLE[8]:
+
+TABLE[9]:
+
+TABLE[10]:
+
+TABLE[11]:
+
+TABLE[12]:
+
+TABLE[13]:
+
+TABLE[14]:
+
+TABLE[15]:
+key/value: [Ames city, Iowa] / [58965]
+key/value: [Lehi city, Utah] / [47407]
+key/value: [Orem city, Utah] / [88328]
+
+TABLE[16]:
+key/value: [Logan city, Utah] / [48174]
+key/value: [Parma city, Ohio] / [81601]
+key/value: [Ogden city, Utah] / [82825]
+key/value: [Sandy city, Utah] / [87461]
+key/value: [Provo city, Utah] / [112488]
+key/value: [Waco city, Texas] / [124805]
+key/value: [Akron city, Ohio] / [199110]
+
+TABLE[17]:
+key/value: [Newark city, Ohio] / [47573]
+key/value: [Wylie city, Texas] / [41427]
+key/value: [Elyria city, Ohio] / [54533]
+key/value: [Lorain city, Ohio] / [64097]
+key/value: [Ankeny city, Iowa] / [45582]
+key/value: [Canton city, Ohio] / [73007]
+key/value: [Layton city, Utah] / [67311]
+key/value: [Pharr city, Texas] / [70400]
+key/value: [Bryan city, Texas] / [76201]
+key/value: [Nampa city, Idaho] / [81557]
+key/value: [Bend city, Oregon] / [76639]
+key/value: [Allen city, Texas] / [84246]
+key/value: [Tyler city, Texas] / [96900]
+key/value: [Dayton city, Ohio] / [141527]
+key/value: [Reno city, Nevada] / [225221]
+key/value: [Toledo city, Ohio] / [287208]
+key/value: [Plano city, Texas] / [259841]
+
+TABLE[18]:
+key/value: [DeSoto city, Texas] / [49047]
+key/value: [Euless city, Texas] / [51277]
+key/value: [Dubuque city, Iowa] / [57637]
+key/value: [Gary city, Indiana] / [80294]
+key/value: [Temple city, Texas] / [66102]
+key/value: [Conroe city, Texas] / [56207]
+key/value: [Yuma city, Arizona] / [93064]
+key/value: [Odessa city, Texas] / [99940]
+key/value: [Denton city, Texas] / [113383]
+key/value: [Salem city, Oregon] / [154637]
+key/value: [Frisco city, Texas] / [116989]
+key/value: [Irving city, Texas] / [216290]
+key/value: [Laredo city, Texas] / [236091]
+key/value: [Mesa city, Arizona] / [439041]
+key/value: [Austin city, Texas] / [790390]
+key/value: [Dallas city, Texas] / [1197816]
+
+TABLE[19]:
+key/value: [Troy city, New York] / [50129]
+key/value: [Lakewood city, Ohio] / [52131]
+key/value: [Enid city, Oklahoma] / [49379]
+key/value: [Herriman city, Utah] / [21785]
+key/value: [Albany city, Oregon] / [50158]
+key/value: [Tigard city, Oregon] / [48035]
+key/value: [Lenexa city, Kansas] / [48190]
+key/value: [Carson City, Nevada] / [55274]
+key/value: [Ocala city, Florida] / [56315]
+key/value: [Novi city, Michigan] / [55224]
+key/value: [Hamilton city, Ohio] / [62477]
+key/value: [Leander city, Texas] / [26521]
+key/value: [Doral city, Florida] / [45704]
+key/value: [Waterloo city, Iowa] / [68406]
+key/value: [Rowlett city, Texas] / [56199]
+key/value: [Baytown city, Texas] / [71802]
+key/value: [Troy city, Michigan] / [80980]
+key/value: [Mission city, Texas] / [77058]
+key/value: [Largo city, Florida] / [77648]
+key/value: [Sparks city, Nevada] / [90264]
+key/value: [Davie town, Florida] / [91992]
+key/value: [Abilene city, Texas] / [117063]
+key/value: [Topeka city, Kansas] / [127473]
+key/value: [Olathe city, Kansas] / [125872]
+key/value: [McAllen city, Texas] / [129877]
+key/value: [Midland city, Texas] / [111147]
+key/value: [Killeen city, Texas] / [127921]
+key/value: [Eugene city, Oregon] / [156185]
+key/value: [Tempe city, Arizona] / [161719]
+key/value: [Garland city, Texas] / [226876]
+key/value: [Lubbock city, Texas] / [229573]
+key/value: [Tampa city, Florida] / [335709]
+key/value: [Miami city, Florida] / [399457]
+key/value: [El Paso city, Texas] / [649121]
+key/value: [Columbus city, Ohio] / [787033]
+key/value: [Houston city, Texas] / [2099451]
+
+TABLE[20]:
+key/value: [Apopka city, Florida] / [41542]
+key/value: [Kettering city, Ohio] / [56163]
+key/value: [Smyrna city, Georgia] / [51271]
+key/value: [Casper city, Wyoming] / [55316]
+key/value: [Kokomo city, Indiana] / [45468]
+key/value: [Caldwell city, Idaho] / [46237]
+key/value: [Bowie city, Maryland] / [54727]
+key/value: [Utica city, New York] / [62235]
+key/value: [Millcreek city, Utah] / [0]
+key/value: [Moore city, Oklahoma] / [55081]
+key/value: [Shawnee city, Kansas] / [62209]
+key/value: [Portland city, Maine] / [66194]
+key/value: [Auburn city, Alabama] / [53380]
+key/value: [Victoria city, Texas] / [62592]
+key/value: [Muncie city, Indiana] / [70085]
+key/value: [Dothan city, Alabama] / [65496]
+key/value: [Weston city, Florida] / [65333]
+key/value: [Albany city, Georgia] / [77434]
+key/value: [Iowa City city, Iowa] / [67862]
+key/value: [Longview city, Texas] / [80455]
+key/value: [Medford city, Oregon] / [74907]
+key/value: [Hoover city, Alabama] / [81619]
+key/value: [Flint city, Michigan] / [102434]
+key/value: [Carmel city, Indiana] / [79191]
+key/value: [Edinburg city, Texas] / [77100]
+key/value: [Davenport city, Iowa] / [99685]
+key/value: [Gresham city, Oregon] / [105594]
+key/value: [Elgin city, Illinois] / [108188]
+key/value: [Meridian city, Idaho] / [75092]
+key/value: [Beaumont city, Texas] / [118296]
+key/value: [Pearland city, Texas] / [91252]
+key/value: [Mesquite city, Texas] / [139824]
+key/value: [Pasadena city, Texas] / [149043]
+key/value: [Peoria city, Arizona] / [154065]
+key/value: [Mobile city, Alabama] / [195111]
+key/value: [McKinney city, Texas] / [131117]
+key/value: [Amarillo city, Texas] / [190695]
+key/value: [Cleveland city, Ohio] / [396815]
+key/value: [Wichita city, Kansas] / [382368]
+key/value: [Tulsa city, Oklahoma] / [391906]
+key/value: [Omaha city, Nebraska] / [408958]
+key/value: [Tucson city, Arizona] / [520116]
+
+TABLE[21]:
+key/value: [Galveston city, Texas] / [47743]
+key/value: [Joplin city, Missouri] / [50150]
+key/value: [Madison city, Alabama] / [42938]
+key/value: [Elkhart city, Indiana] / [50949]
+key/value: [Edina city, Minnesota] / [47941]
+key/value: [Berwyn city, Illinois] / [56657]
+key/value: [Decatur city, Alabama] / [55683]
+key/value: [Normal town, Illinois] / [52497]
+key/value: [Grapevine city, Texas] / [46334]
+key/value: [Pocatello city, Idaho] / [54255]
+key/value: [Parker town, Colorado] / [45297]
+key/value: [Margate city, Florida] / [53284]
+key/value: [Taylor city, Michigan] / [63131]
+key/value: [Sanford city, Florida] / [53570]
+key/value: [Harlingen city, Texas] / [64849]
+key/value: [Youngstown city, Ohio] / [66982]
+key/value: [Jupiter town, Florida] / [55156]
+key/value: [Eagan city, Minnesota] / [64206]
+key/value: [Tamarac city, Florida] / [60427]
+key/value: [Lodi city, California] / [62134]
+key/value: [Conway city, Arkansas] / [58908]
+key/value: [Rogers city, Arkansas] / [55964]
+key/value: [Mansfield city, Texas] / [56368]
+key/value: [Hammond city, Indiana] / [80830]
+key/value: [Napa city, California] / [76915]
+key/value: [Buckeye city, Arizona] / [50876]
+key/value: [Cicero town, Illinois] / [83891]
+key/value: [Sioux City city, Iowa] / [82684]
+key/value: [St. George city, Utah] / [72897]
+key/value: [Deltona city, Florida] / [85182]
+key/value: [Lawton city, Oklahoma] / [96867]
+key/value: [Edmond city, Oklahoma] / [81405]
+key/value: [Roswell city, Georgia] / [88346]
+key/value: [Sunrise city, Florida] / [84439]
+key/value: [Fishers city, Indiana] / [76794]
+key/value: [Albany city, New York] / [97856]
+key/value: [Lawrence city, Kansas] / [87643]
+key/value: [Peoria city, Illinois] / [115007]
+key/value: [Pueblo city, Colorado] / [106595]
+key/value: [Arvada city, Colorado] / [106433]
+key/value: [Norman city, Oklahoma] / [110925]
+key/value: [Kent city, Washington] / [92411]
+key/value: [Warren city, Michigan] / [134056]
+key/value: [Miramar city, Florida] / [122041]
+key/value: [Joliet city, Illinois] / [147433]
+key/value: [Aurora city, Illinois] / [197899]
+key/value: [Des Moines city, Iowa] / [203433]
+key/value: [Hialeah city, Florida] / [224669]
+key/value: [Gilbert town, Arizona] / [208453]
+key/value: [Orlando city, Florida] / [238300]
+key/value: [Cincinnati city, Ohio] / [296943]
+key/value: [Aurora city, Colorado] / [325078]
+key/value: [Arlington city, Texas] / [365438]
+key/value: [Atlanta city, Georgia] / [420003]
+key/value: [Portland city, Oregon] / [583776]
+key/value: [Denver city, Colorado] / [600158]
+key/value: [Phoenix city, Arizona] / [1445632]
+
+TABLE[22]:
+key/value: [Saginaw city, Michigan] / [51508]
+key/value: [Texas City city, Texas] / [45099]
+key/value: [Twin Falls city, Idaho] / [44125]
+key/value: [Smyrna town, Tennessee] / [39974]
+key/value: [Maricopa city, Arizona] / [43482]
+key/value: [Lacey city, Washington] / [42393]
+key/value: [Wheaton city, Illinois] / [52894]
+key/value: [Little Elm city, Texas] / [25898]
+key/value: [Manhattan city, Kansas] / [52281]
+key/value: [Anderson city, Indiana] / [56129]
+key/value: [Valdosta city, Georgia] / [54518]
+key/value: [Sarasota city, Florida] / [51917]
+key/value: [Corvallis city, Oregon] / [54462]
+key/value: [Springfield city, Ohio] / [60608]
+key/value: [Pontiac city, Michigan] / [59515]
+key/value: [Marietta city, Georgia] / [56579]
+key/value: [Cheyenne city, Wyoming] / [59466]
+key/value: [San Marcos city, Texas] / [44894]
+key/value: [Blaine city, Minnesota] / [57186]
+key/value: [Kenner city, Louisiana] / [66702]
+key/value: [Davis city, California] / [65622]
+key/value: [Decatur city, Illinois] / [76122]
+key/value: [Pasco city, Washington] / [59781]
+key/value: [Missoula city, Montana] / [66788]
+key/value: [Wyoming city, Michigan] / [72125]
+key/value: [Racine city, Wisconsin] / [78860]
+key/value: [Cedar Park city, Texas] / [48937]
+key/value: [Georgetown city, Texas] / [47400]
+key/value: [Hemet city, California] / [78657]
+key/value: [Duluth city, Minnesota] / [86265]
+key/value: [Goodyear city, Arizona] / [65275]
+key/value: [Avondale city, Arizona] / [76238]
+key/value: [Indio city, California] / [76036]
+key/value: [Suffolk city, Virginia] / [84585]
+key/value: [Livonia city, Michigan] / [96942]
+key/value: [Chino city, California] / [77983]
+key/value: [Tracy city, California] / [82922]
+key/value: [Beaverton city, Oregon] / [89803]
+key/value: [Roanoke city, Virginia] / [97032]
+key/value: [San Angelo city, Texas] / [93200]
+key/value: [Vista city, California] / [93834]
+key/value: [Chico city, California] / [86187]
+key/value: [Boulder city, Colorado] / [97385]
+key/value: [Greeley city, Colorado] / [92889]
+key/value: [Hillsboro city, Oregon] / [91611]
+key/value: [Lewisville city, Texas] / [95290]
+key/value: [Billings city, Montana] / [104170]
+key/value: [Lakeland city, Florida] / [97422]
+key/value: [Palm Bay city, Florida] / [103190]
+key/value: [West Jordan city, Utah] / [103712]
+key/value: [Lansing city, Michigan] / [114297]
+key/value: [Sugar Land city, Texas] / [78817]
+key/value: [Richardson city, Texas] / [99223]
+key/value: [Round Rock city, Texas] / [99887]
+key/value: [Hampton city, Virginia] / [137436]
+key/value: [Carrollton city, Texas] / [119097]
+key/value: [Surprise city, Arizona] / [117517]
+key/value: [Savannah city, Georgia] / [136286]
+key/value: [Columbus city, Georgia] / [189885]
+key/value: [Yonkers city, New York] / [195976]
+key/value: [Boise City city, Idaho] / [205671]
+key/value: [Norfolk city, Virginia] / [242803]
+key/value: [Glendale city, Arizona] / [226721]
+key/value: [Buffalo city, New York] / [261310]
+key/value: [Chandler city, Arizona] / [236123]
+key/value: [Lincoln city, Nebraska] / [258379]
+key/value: [Henderson city, Nevada] / [257729]
+key/value: [Las Vegas city, Nevada] / [583756]
+key/value: [Detroit city, Michigan] / [713777]
+key/value: [Fort Worth city, Texas] / [741206]
+key/value: [Chicago city, Illinois] / [2695598]
+
+TABLE[23]:
+key/value: [Mishawaka city, Indiana] / [48252]
+key/value: [Burien city, Washington] / [33313]
+key/value: [Kentwood city, Michigan] / [48707]
+key/value: [Pensacola city, Florida] / [51923]
+key/value: [Bellevue city, Nebraska] / [50137]
+key/value: [Delano city, California] / [53041]
+key/value: [Leesburg town, Virginia] / [42616]
+key/value: [Port Arthur city, Texas] / [53818]
+key/value: [St. Cloud city, Florida] / [35183]
+key/value: [Colton city, California] / [52154]
+key/value: [Novato city, California] / [51904]
+key/value: [Santee city, California] / [53413]
+key/value: [Gilroy city, California] / [48821]
+key/value: [Bradenton city, Florida] / [49546]
+key/value: [Greenwood city, Indiana] / [49791]
+key/value: [Taylorsville city, Utah] / [58652]
+key/value: [Idaho Falls city, Idaho] / [56813]
+key/value: [Dublin city, California] / [46036]
+key/value: [Tulare city, California] / [59278]
+key/value: [Madera city, California] / [61416]
+key/value: [Oshkosh city, Wisconsin] / [66083]
+key/value: [Jackson city, Tennessee] / [65211]
+key/value: [Homestead city, Florida] / [60512]
+key/value: [Lafayette city, Indiana] / [67140]
+key/value: [Kissimmee city, Florida] / [59682]
+key/value: [Evanston city, Illinois] / [74486]
+key/value: [Camden city, New Jersey] / [77344]
+key/value: [Flagstaff city, Arizona] / [65870]
+key/value: [South Jordan city, Utah] / [50418]
+key/value: [Upland city, California] / [73732]
+key/value: [Loveland city, Colorado] / [66859]
+key/value: [Perris city, California] / [68386]
+key/value: [Tustin city, California] / [75540]
+key/value: [Folsom city, California] / [72203]
+key/value: [Auburn city, Washington] / [70180]
+key/value: [Westland city, Michigan] / [84094]
+key/value: [Melbourne city, Florida] / [76068]
+key/value: [Merced city, California] / [78958]
+key/value: [Waukegan city, Illinois] / [89078]
+key/value: [O'Fallon city, Missouri] / [79329]
+key/value: [Carson city, California] / [91714]
+key/value: [Yakima city, Washington] / [91067]
+key/value: [Dearborn city, Michigan] / [98153]
+key/value: [Erie city, Pennsylvania] / [101786]
+key/value: [Longmont city, Colorado] / [86270]
+key/value: [Kenosha city, Wisconsin] / [99218]
+key/value: [Renton city, Washington] / [90927]
+key/value: [Rialto city, California] / [99171]
+key/value: [League City city, Texas] / [83560]
+key/value: [Downey city, California] / [111772]
+key/value: [Clovis city, California] / [95631]
+key/value: [Columbia city, Missouri] / [108500]
+key/value: [Cedar Rapids city, Iowa] / [126326]
+key/value: [Orange city, California] / [136416]
+key/value: [Thornton city, Colorado] / [118772]
+key/value: [Syracuse city, New York] / [145170]
+key/value: [Rockford city, Illinois] / [152871]
+key/value: [Pomona city, California] / [149058]
+key/value: [Hollywood city, Florida] / [140768]
+key/value: [Lakewood city, Colorado] / [142980]
+key/value: [Corona city, California] / [152374]
+key/value: [Brownsville city, Texas] / [175023]
+key/value: [Oxnard city, California] / [197899]
+key/value: [Tacoma city, Washington] / [198397]
+key/value: [Richmond city, Virginia] / [204214]
+key/value: [Madison city, Wisconsin] / [233209]
+key/value: [Newark city, New Jersey] / [277140]
+key/value: [Irvine city, California] / [212375]
+key/value: [Fresno city, California] / [494665]
+key/value: [Memphis city, Tennessee] / [646889]
+key/value: [San Antonio city, Texas] / [1327407]
+key/value: [New York city, New York] / [8175133]
+
+TABLE[24]:
+key/value: [Hoboken city, New Jersey] / [50005]
+key/value: [Olympia city, Washington] / [46478]
+key/value: [Yucaipa city, California] / [51367]
+key/value: [Stonecrest city, Georgia] / [0]
+key/value: [Brookhaven city, Georgia] / [0]
+key/value: [Hanford city, California] / [53967]
+key/value: [Arcadia city, California] / [56364]
+key/value: [La Mesa city, California] / [57065]
+key/value: [Royal Oak city, Michigan] / [57236]
+key/value: [Gardena city, California] / [58829]
+key/value: [Bartlett city, Tennessee] / [54613]
+key/value: [Owensboro city, Kentucky] / [57265]
+key/value: [Skokie village, Illinois] / [64784]
+key/value: [Springfield city, Oregon] / [59403]
+key/value: [Bayonne city, New Jersey] / [63024]
+key/value: [Pflugerville city, Texas] / [46936]
+key/value: [Alpharetta city, Georgia] / [57551]
+key/value: [Rockville city, Maryland] / [61209]
+key/value: [Rocklin city, California] / [56974]
+key/value: [Passaic city, New Jersey] / [69781]
+key/value: [Lynwood city, California] / [69772]
+key/value: [North Port city, Florida] / [57357]
+key/value: [Lauderhill city, Florida] / [66887]
+key/value: [Redmond city, Washington] / [54144]
+key/value: [Frederick city, Maryland] / [65239]
+key/value: [Waukesha city, Wisconsin] / [70718]
+key/value: [Woodbury city, Minnesota] / [61961]
+key/value: [Turlock city, California] / [68549]
+key/value: [Appleton city, Wisconsin] / [72623]
+key/value: [Kalamazoo city, Michigan] / [74262]
+key/value: [Alameda city, California] / [73812]
+key/value: [Jonesboro city, Arkansas] / [67263]
+key/value: [Flower Mound town, Texas] / [64669]
+key/value: [Plymouth city, Minnesota] / [70576]
+key/value: [Lynchburg city, Virginia] / [75568]
+key/value: [Manteca city, California] / [67096]
+key/value: [Franklin city, Tennessee] / [62487]
+key/value: [Trenton city, New Jersey] / [84913]
+key/value: [Clifton city, New Jersey] / [84136]
+key/value: [Fort Myers city, Florida] / [62298]
+key/value: [Champaign city, Illinois] / [81055]
+key/value: [Palm Coast city, Florida] / [75180]
+key/value: [Redding city, California] / [89861]
+key/value: [Lynn city, Massachusetts] / [90329]
+key/value: [Plantation city, Florida] / [84955]
+key/value: [Menifee city, California] / [77519]
+key/value: [Compton city, California] / [96455]
+key/value: [Boca Raton city, Florida] / [84392]
+key/value: [Tuscaloosa city, Alabama] / [90468]
+key/value: [South Bend city, Indiana] / [101168]
+key/value: [Burbank city, California] / [103340]
+key/value: [Norwalk city, California] / [105549]
+key/value: [Everett city, Washington] / [103019]
+key/value: [Antioch city, California] / [102372]
+key/value: [Clearwater city, Florida] / [107685]
+key/value: [Evansville city, Indiana] / [117429]
+key/value: [Ann Arbor city, Michigan] / [113934]
+key/value: [Vallejo city, California] / [115942]
+key/value: [Fargo city, North Dakota] / [105549]
+key/value: [Concord city, California] / [122067]
+key/value: [Visalia city, California] / [124442]
+key/value: [Kansas City city, Kansas] / [145786]
+key/value: [Salinas city, California] / [150441]
+key/value: [Hayward city, California] / [144186]
+key/value: [Ontario city, California] / [163924]
+key/value: [Cape Coral city, Florida] / [154305]
+key/value: [Montgomery city, Alabama] / [205764]
+key/value: [Huntsville city, Alabama] / [180105]
+key/value: [Rochester city, New York] / [210565]
+key/value: [Birmingham city, Alabama] / [212237]
+key/value: [Fontana city, California] / [196069]
+key/value: [Modesto city, California] / [201165]
+key/value: [Spokane city, Washington] / [208916]
+key/value: [Fremont city, California] / [214089]
+key/value: [Scottsdale city, Arizona] / [217385]
+key/value: [Fort Wayne city, Indiana] / [253691]
+key/value: [St. Louis city, Missouri] / [319294]
+key/value: [St. Paul city, Minnesota] / [285068]
+key/value: [Anaheim city, California] / [336265]
+key/value: [Oakland city, California] / [390724]
+key/value: [Baltimore city, Maryland] / [620961]
+key/value: [Seattle city, Washington] / [608660]
+
+TABLE[25]:
+key/value: [Cerritos city, California] / [49041]
+key/value: [Stillwater city, Oklahoma] / [45688]
+key/value: [Queen Creek town, Arizona] / [26361]
+key/value: [Florissant city, Missouri] / [52158]
+key/value: [Beaumont city, California] / [36877]
+key/value: [La Crosse city, Wisconsin] / [51320]
+key/value: [Glendora city, California] / [50073]
+key/value: [Coeur d'Alene city, Idaho] / [44137]
+key/value: [Rosemead city, California] / [53764]
+key/value: [Kingsport city, Tennessee] / [48205]
+key/value: [Highland city, California] / [53104]
+key/value: [St. Peters city, Missouri] / [52575]
+key/value: [Richland city, Washington] / [48058]
+key/value: [Great Falls city, Montana] / [58505]
+key/value: [Casa Grande city, Arizona] / [48571]
+key/value: [Apex town, North Carolina] / [37476]
+key/value: [Meriden city, Connecticut] / [60868]
+key/value: [Vineland city, New Jersey] / [60724]
+key/value: [Bristol city, Connecticut] / [60477]
+key/value: [La Habra city, California] / [60239]
+key/value: [Petaluma city, California] / [57941]
+key/value: [Woodland city, California] / [55468]
+key/value: [Terre Haute city, Indiana] / [60785]
+key/value: [Lakewood city, Washington] / [58163]
+key/value: [Council Bluffs city, Iowa] / [62230]
+key/value: [North Miami city, Florida] / [58786]
+key/value: [Eastvale city, California] / [0]
+key/value: [Noblesville city, Indiana] / [51969]
+key/value: [Port Orange city, Florida] / [56048]
+key/value: [Lakeville city, Minnesota] / [55954]
+key/value: [St. Cloud city, Minnesota] / [65842]
+key/value: [Wilmington city, Delaware] / [70851]
+key/value: [Broomfield city, Colorado] / [55889]
+key/value: [Redlands city, California] / [68747]
+key/value: [Southfield city, Michigan] / [71739]
+key/value: [St. Joseph city, Missouri] / [76780]
+key/value: [Missouri City city, Texas] / [67358]
+key/value: [Lakewood city, California] / [80048]
+key/value: [Springdale city, Arkansas] / [69797]
+key/value: [Alhambra city, California] / [83089]
+key/value: [Milpitas city, California] / [66790]
+key/value: [Johns Creek city, Georgia] / [76728]
+key/value: [Santa Fe city, New Mexico] / [67947]
+key/value: [Danbury city, Connecticut] / [80893]
+key/value: [Whittier city, California] / [85331]
+key/value: [Bloomington city, Indiana] / [80405]
+key/value: [Fort Smith city, Arkansas] / [86209]
+key/value: [Norwalk city, Connecticut] / [85603]
+key/value: [Miami Beach city, Florida] / [87779]
+key/value: [New Braunfels city, Texas] / [57740]
+key/value: [Kirkland city, Washington] / [48787]
+key/value: [Portsmouth city, Virginia] / [95535]
+key/value: [Hesperia city, California] / [90173]
+key/value: [El Cajon city, California] / [99478]
+key/value: [Green Bay city, Wisconsin] / [104057]
+key/value: [Wichita Falls city, Texas] / [104553]
+key/value: [Richmond city, California] / [103701]
+key/value: [Centennial city, Colorado] / [100377]
+key/value: [Temecula city, California] / [100097]
+key/value: [Carlsbad city, California] / [105328]
+key/value: [El Monte city, California] / [113475]
+key/value: [Murrieta city, California] / [103466]
+key/value: [Rochester city, Minnesota] / [106769]
+key/value: [Berkeley city, California] / [112580]
+key/value: [Lafayette city, Louisiana] / [120623]
+key/value: [Gainesville city, Florida] / [124354]
+key/value: [Pasadena city, California] / [137122]
+key/value: [Torrance city, California] / [145438]
+key/value: [Paterson city, New Jersey] / [146199]
+key/value: [Bellevue city, Washington] / [122363]
+key/value: [Naperville city, Illinois] / [141853]
+key/value: [Palmdale city, California] / [152750]
+key/value: [Alexandria city, Virginia] / [139966]
+key/value: [Jackson city, Mississippi] / [173514]
+key/value: [Cary town, North Carolina] / [135234]
+key/value: [Knoxville city, Tennessee] / [178874]
+key/value: [Tallahassee city, Florida] / [181376]
+key/value: [Grand Prairie city, Texas] / [175396]
+key/value: [Glendale city, California] / [191719]
+key/value: [Salt Lake City city, Utah] / [186440]
+key/value: [Chesapeake city, Virginia] / [222209]
+key/value: [Stockton city, California] / [291707]
+key/value: [Milwaukee city, Wisconsin] / [594833]
+key/value: [San Jose city, California] / [945942]
+
+TABLE[26]:
+key/value: [Coral Gables city, Florida] / [46780]
+key/value: [Placentia city, California] / [50533]
+key/value: [Oak Park village, Illinois] / [51878]
+key/value: [Revere city, Massachusetts] / [51755]
+key/value: [Paramount city, California] / [54098]
+key/value: [Minnetonka city, Minnesota] / [49734]
+key/value: [Bentonville city, Arkansas] / [35301]
+key/value: [Oak Lawn village, Illinois] / [56690]
+key/value: [Shoreline city, Washington] / [53007]
+key/value: [Des Plaines city, Illinois] / [58364]
+key/value: [Cupertino city, California] / [58302]
+key/value: [West Allis city, Wisconsin] / [60411]
+key/value: [Malden city, Massachusetts] / [59450]
+key/value: [Burnsville city, Minnesota] / [60306]
+key/value: [Encinitas city, California] / [59518]
+key/value: [Brentwood city, California] / [51481]
+key/value: [Janesville city, Wisconsin] / [63575]
+key/value: [Schenectady city, New York] / [66135]
+key/value: [Palo Alto city, California] / [64403]
+key/value: [Sammamish city, Washington] / [45780]
+key/value: [Yuba City city, California] / [64925]
+key/value: [Palatine village, Illinois] / [68557]
+key/value: [West Des Moines city, Iowa] / [56609]
+key/value: [Castle Rock town, Colorado] / [48231]
+key/value: [Eau Claire city, Wisconsin] / [65883]
+key/value: [Delray Beach city, Florida] / [60522]
+key/value: [Camarillo city, California] / [65201]
+key/value: [St. Charles city, Missouri] / [65794]
+key/value: [Gulfport city, Mississippi] / [67793]
+key/value: [Pittsburg city, California] / [63264]
+key/value: [San Ramon city, California] / [72148]
+key/value: [Bloomington city, Illinois] / [76610]
+key/value: [Warwick city, Rhode Island] / [82672]
+key/value: [Kennewick city, Washington] / [73917]
+key/value: [Hawthorne city, California] / [84293]
+key/value: [Reading city, Pennsylvania] / [88082]
+key/value: [Newton city, Massachusetts] / [85146]
+key/value: [Nashua city, New Hampshire] / [86494]
+key/value: [Livermore city, California] / [80968]
+key/value: [Quincy city, Massachusetts] / [92271]
+key/value: [South Fulton city, Georgia] / [0]
+key/value: [Vacaville city, California] / [92428]
+key/value: [San Mateo city, California] / [97207]
+key/value: [Daly City city, California] / [101123]
+key/value: [Inglewood city, California] / [109673]
+key/value: [Lowell city, Massachusetts] / [106519]
+key/value: [Westminster city, Colorado] / [106114]
+key/value: [Springfield city, Illinois] / [116250]
+key/value: [Fairfield city, California] / [105321]
+key/value: [Hartford city, Connecticut] / [124775]
+key/value: [Elizabeth city, New Jersey] / [124969]
+key/value: [Stamford city, Connecticut] / [122643]
+key/value: [Fullerton city, California] / [135161]
+key/value: [Roseville city, California] / [118788]
+key/value: [Escondido city, California] / [143911]
+key/value: [Sunnyvale city, California] / [140081]
+key/value: [Macon-Bibb County, Georgia] / [0]
+key/value: [Lancaster city, California] / [156633]
+key/value: [Springfield city, Missouri] / [159498]
+key/value: [Elk Grove city, California] / [153015]
+key/value: [Oceanside city, California] / [167086]
+key/value: [Vancouver city, Washington] / [161791]
+key/value: [Shreveport city, Louisiana] / [199311]
+key/value: [Overland Park city, Kansas] / [173372]
+key/value: [Little Rock city, Arkansas] / [193524]
+key/value: [Corpus Christi city, Texas] / [305215]
+key/value: [Riverside city, California] / [303871]
+key/value: [Santa Ana city, California] / [324528]
+key/value: [Urban Honolulu CDP, Hawaii] / [337256]
+key/value: [Kansas City city, Missouri] / [459787]
+key/value: [Boston city, Massachusetts] / [617594]
+key/value: [Jacksonville city, Florida] / [821784]
+key/value: [San Diego city, California] / [1307402]
+
+TABLE[27]:
+key/value: [Plainfield city, New Jersey] / [49808]
+key/value: [Battle Creek city, Michigan] / [52347]
+key/value: [Grand Island city, Nebraska] / [48520]
+key/value: [Harrisonburg city, Virginia] / [48914]
+key/value: [Peabody city, Massachusetts] / [51251]
+key/value: [Pinellas Park city, Florida] / [49079]
+key/value: [Hempstead village, New York] / [53891]
+key/value: [Southaven city, Mississippi] / [48982]
+key/value: [Blue Springs city, Missouri] / [52575]
+key/value: [Medford city, Massachusetts] / [56173]
+key/value: [Midwest City city, Oklahoma] / [54371]
+key/value: [Taunton city, Massachusetts] / [55874]
+key/value: [White Plains city, New York] / [56853]
+key/value: [San Rafael city, California] / [57713]
+key/value: [Coconut Creek city, Florida] / [52909]
+key/value: [Montebello city, California] / [62500]
+key/value: [Waltham city, Massachusetts] / [60632]
+key/value: [Coon Rapids city, Minnesota] / [61476]
+key/value: [Santa Cruz city, California] / [59946]
+key/value: [Wellington village, Florida] / [56508]
+key/value: [Mount Vernon city, New York] / [67292]
+key/value: [Union City city, New Jersey] / [66455]
+key/value: [Gaithersburg city, Maryland] / [59933]
+key/value: [Daytona Beach city, Florida] / [61005]
+key/value: [Marysville city, Washington] / [60020]
+key/value: [Maple Grove city, Minnesota] / [61567]
+key/value: [Bismarck city, North Dakota] / [61272]
+key/value: [Union City city, California] / [69516]
+key/value: [Bellflower city, California] / [76616]
+key/value: [Scranton city, Pennsylvania] / [76089]
+key/value: [Warner Robins city, Georgia] / [66588]
+key/value: [New Rochelle city, New York] / [77062]
+key/value: [Boynton Beach city, Florida] / [68217]
+key/value: [Cranston city, Rhode Island] / [80387]
+key/value: [Pleasanton city, California] / [70285]
+key/value: [Buena Park city, California] / [80530]
+key/value: [Bloomington city, Minnesota] / [82893]
+key/value: [Fayetteville city, Arkansas] / [73580]
+key/value: [Bellingham city, Washington] / [80885]
+key/value: [South Gate city, California] / [94396]
+key/value: [San Marcos city, California] / [83781]
+key/value: [Rio Rancho city, New Mexico] / [87521]
+key/value: [Lee's Summit city, Missouri] / [91364]
+key/value: [Las Cruces city, New Mexico] / [97618]
+key/value: [Waterbury city, Connecticut] / [110366]
+key/value: [Sandy Springs city, Georgia] / [93853]
+key/value: [Miami Gardens city, Florida] / [107167]
+key/value: [Broken Arrow city, Oklahoma] / [98850]
+key/value: [Pompano Beach city, Florida] / [99845]
+key/value: [Costa Mesa city, California] / [109960]
+key/value: [Independence city, Missouri] / [116830]
+key/value: [College Station city, Texas] / [93857]
+key/value: [New Haven city, Connecticut] / [129779]
+key/value: [Coral Springs city, Florida] / [121096]
+key/value: [West Valley City city, Utah] / [129480]
+key/value: [Clarksville city, Tennessee] / [132929]
+key/value: [Fort Collins city, Colorado] / [143986]
+key/value: [Santa Rosa city, California] / [167815]
+key/value: [Newport News city, Virginia] / [180719]
+key/value: [Chattanooga city, Tennessee] / [167674]
+key/value: [Grand Rapids city, Michigan] / [188040]
+key/value: [Baton Rouge city, Louisiana] / [229493]
+key/value: [Durham city, North Carolina] / [228330]
+key/value: [New Orleans city, Louisiana] / [343829]
+key/value: [Minneapolis city, Minnesota] / [382578]
+key/value: [Long Beach city, California] / [462257]
+key/value: [Sacramento city, California] / [466488]
+
+TABLE[28]:
+key/value: [Niagara Falls city, New York] / [50193]
+key/value: [Aliso Viejo city, California] / [47823]
+key/value: [West Lafayette city, Indiana] / [29596]
+key/value: [Collierville town, Tennessee] / [43965]
+key/value: [Perth Amboy city, New Jersey] / [50814]
+key/value: [Palm Desert city, California] / [48445]
+key/value: [Watsonville city, California] / [51199]
+key/value: [West Haven city, Connecticut] / [55564]
+key/value: [Chicopee city, Massachusetts] / [55298]
+key/value: [Apple Valley city, Minnesota] / [49084]
+key/value: [Diamond Bar city, California] / [55544]
+key/value: [Lancaster city, Pennsylvania] / [59322]
+key/value: [Porterville city, California] / [54165]
+key/value: [Bonita Springs city, Florida] / [43914]
+key/value: [Commerce City city, Colorado] / [45913]
+key/value: [Pico Rivera city, California] / [62942]
+key/value: [East Orange city, New Jersey] / [64270]
+key/value: [Eden Prairie city, Minnesota] / [60797]
+key/value: [Johnson City city, Tennessee] / [63152]
+key/value: [Yorba Linda city, California] / [64234]
+key/value: [Bossier City city, Louisiana] / [61315]
+key/value: [Bowling Green city, Kentucky] / [58067]
+key/value: [Pawtucket city, Rhode Island] / [71148]
+key/value: [Schaumburg village, Illinois] / [74227]
+key/value: [Bethlehem city, Pennsylvania] / [74982]
+key/value: [Lake Charles city, Louisiana] / [71993]
+key/value: [Lawrence city, Massachusetts] / [76377]
+key/value: [Chino Hills city, California] / [74799]
+key/value: [Lake Forest city, California] / [77264]
+key/value: [San Leandro city, California] / [84950]
+key/value: [Westminster city, California] / [89701]
+key/value: [Brockton city, Massachusetts] / [93810]
+key/value: [Federal Way city, Washington] / [89306]
+key/value: [Concord city, North Carolina] / [79066]
+key/value: [West Covina city, California] / [106098]
+key/value: [Santa Maria city, California] / [99553]
+key/value: [Allentown city, Pennsylvania] / [118032]
+key/value: [Victorville city, California] / [115903]
+key/value: [Simi Valley city, California] / [124237]
+key/value: [Santa Clara city, California] / [116468]
+key/value: [Bridgeport city, Connecticut] / [144229]
+key/value: [Murfreesboro city, Tennessee] / [108755]
+key/value: [Pembroke Pines city, Florida] / [154750]
+key/value: [Port St. Lucie city, Florida] / [164603]
+key/value: [North Las Vegas city, Nevada] / [216961]
+key/value: [Jersey City city, New Jersey] / [247597]
+key/value: [St. Petersburg city, Florida] / [244769]
+key/value: [Chula Vista city, California] / [243916]
+key/value: [Bakersfield city, California] / [347483]
+key/value: [Raleigh city, North Carolina] / [403892]
+key/value: [Albuquerque city, New Mexico] / [545852]
+key/value: [Oklahoma City city, Oklahoma] / [579999]
+key/value: [Los Angeles city, California] / [3792621]
+
+TABLE[29]:
+key/value: [Tinley Park village, Illinois] / [56703]
+key/value: [Orland Park village, Illinois] / [56767]
+key/value: [Grand Junction city, Colorado] / [58566]
+key/value: [Haverhill city, Massachusetts] / [60879]
+key/value: [San Clemente city, California] / [63522]
+key/value: [Walnut Creek city, California] / [64173]
+key/value: [New Britain city, Connecticut] / [73206]
+key/value: [Apple Valley town, California] / [69135]
+key/value: [Bolingbrook village, Illinois] / [73366]
+key/value: [Baldwin Park city, California] / [75390]
+key/value: [Gastonia city, North Carolina] / [71741]
+key/value: [Rapid City city, South Dakota] / [67956]
+key/value: [Brooklyn Park city, Minnesota] / [75781]
+key/value: [Deerfield Beach city, Florida] / [75018]
+key/value: [Redwood City city, California] / [76815]
+key/value: [Santa Monica city, California] / [89736]
+key/value: [West Palm Beach city, Florida] / [99919]
+key/value: [Cambridge city, Massachusetts] / [105162]
+key/value: [Columbia city, South Carolina] / [129272]
+key/value: [Garden Grove city, California] / [170883]
+key/value: [Providence city, Rhode Island] / [178042]
+key/value: [Fort Lauderdale city, Florida] / [165521]
+key/value: [Worcester city, Massachusetts] / [181045]
+key/value: [Pittsburgh city, Pennsylvania] / [305704]
+key/value: [Virginia Beach city, Virginia] / [437994]
+
+TABLE[30]:
+key/value: [Charleston city, West Virginia] / [51400]
+key/value: [West New York town, New Jersey] / [49708]
+key/value: [New Brunswick city, New Jersey] / [55181]
+key/value: [Grand Forks city, North Dakota] / [52838]
+key/value: [Lake Havasu City city, Arizona] / [52527]
+key/value: [Hendersonville city, Tennessee] / [51372]
+key/value: [Monterey Park city, California] / [60269]
+key/value: [National City city, California] / [58582]
+key/value: [Laguna Niguel city, California] / [62979]
+key/value: [Redondo Beach city, California] / [66748]
+key/value: [Lake Elsinore city, California] / [51821]
+key/value: [Framingham city, Massachusetts] / [0]
+key/value: [Rochester Hills city, Michigan] / [70995]
+key/value: [Rock Hill city, South Carolina] / [66154]
+key/value: [Somerville city, Massachusetts] / [75754]
+key/value: [Mountain View city, California] / [74066]
+key/value: [Newport Beach city, California] / [85186]
+key/value: [Fall River city, Massachusetts] / [88857]
+key/value: [Santa Barbara city, California] / [88410]
+key/value: [Asheville city, North Carolina] / [83393]
+key/value: [Mission Viejo city, California] / [93305]
+key/value: [Jurupa Valley city, California] / [0]
+key/value: [Manchester city, New Hampshire] / [109565]
+key/value: [Thousand Oaks city, California] / [126683]
+key/value: [Sioux Falls city, South Dakota] / [153888]
+key/value: [Santa Clarita city, California] / [176320]
+key/value: [Moreno Valley city, California] / [193365]
+key/value: [Anchorage municipality, Alaska] / [291826]
+key/value: [San Francisco city, California] / [805235]
+key/value: [Charlotte city, North Carolina] / [731424]
+
+TABLE[31]:
+key/value: [Kannapolis city, North Carolina] / [42625]
+key/value: [Burlington city, North Carolina] / [49963]
+key/value: [Cathedral City city, California] / [51200]
+key/value: [Dearborn Heights city, Michigan] / [57774]
+key/value: [St. Clair Shores city, Michigan] / [59715]
+key/value: [Greenville city, South Carolina] / [58409]
+key/value: [Rancho Cordova city, California] / [64776]
+key/value: [Farmington Hills city, Michigan] / [79740]
+key/value: [Citrus Heights city, California] / [83301]
+key/value: [Greenville city, North Carolina] / [84554]
+key/value: [New Bedford city, Massachusetts] / [95072]
+key/value: [Spokane Valley city, Washington] / [89755]
+key/value: [High Point city, North Carolina] / [104371]
+key/value: [Wilmington city, North Carolina] / [106476]
+key/value: [Sterling Heights city, Michigan] / [129699]
+key/value: [Charleston city, South Carolina] / [120083]
+key/value: [Springfield city, Massachusetts] / [153060]
+key/value: [San Bernardino city, California] / [209924]
+key/value: [Greensboro city, North Carolina] / [269666]
+key/value: [Colorado Springs city, Colorado] / [416427]
+key/value: [Philadelphia city, Pennsylvania] / [1526006]
+
+TABLE[32]:
+key/value: [Methuen Town city, Massachusetts] / [47255]
+key/value: [Summerville town, South Carolina] / [43392]
+key/value: [West Sacramento city, California] / [48744]
+key/value: [Mount Prospect village, Illinois] / [54167]
+key/value: [Rocky Mount city, North Carolina] / [57477]
+key/value: [Fountain Valley city, California] / [55313]
+key/value: [Huntington Park city, California] / [58114]
+key/value: [Palm Beach Gardens city, Florida] / [48452]
+key/value: [Chapel Hill town, North Carolina] / [57233]
+key/value: [North Little Rock city, Arkansas] / [62304]
+key/value: [North Richland Hills city, Texas] / [63343]
+
+TABLE[33]:
+key/value: [Hoffman Estates village, Illinois] / [51895]
+key/value: [Weymouth Town city, Massachusetts] / [53743]
+key/value: [Huntersville town, North Carolina] / [46773]
+key/value: [Jacksonville city, North Carolina] / [70145]
+key/value: [Rancho Cucamonga city, California] / [165269]
+key/value: [Huntington Beach city, California] / [189992]
+key/value: [Fayetteville city, North Carolina] / [200564]
+
+TABLE[34]:
+key/value: [Winston-Salem city, North Carolina] / [229617]
+
+TABLE[35]:
+key/value: [Milford city (balance), Connecticut] / [51271]
+key/value: [Arlington Heights village, Illinois] / [75101]
+key/value: [Mount Pleasant town, South Carolina] / [67843]
+
+TABLE[36]:
+key/value: [South San Francisco city, California] / [63632]
+key/value: [Indianapolis city (balance), Indiana] / [820445]
+
+TABLE[37]:
+key/value: [North Charleston city, South Carolina] / [97471]
+key/value: [Washington city, District of Columbia] / [601723]
+
+TABLE[38]:
+
+TABLE[39]:
+
+TABLE[40]:
+key/value: [Lexington-Fayette urban county, Kentucky] / [295803]
+
+TABLE[41]:
+
+TABLE[42]:
+
+TABLE[43]:
+key/value: [San Buenaventura (Ventura) city, California] / [106433]
+
+TABLE[44]:
+
+TABLE[45]:
+
+TABLE[46]:
+
+TABLE[47]:
+
+TABLE[48]:
+
+TABLE[49]:
+
+TABLE[50]:
+
+TABLE[51]:
+
+TABLE[52]:
+
+TABLE[53]:
+
+TABLE[54]:
+
+TABLE[55]:
+
+TABLE[56]:
+
+TABLE[57]:
+
+TABLE[58]:
+key/value: [Athens-Clarke County unified government (balance), Georgia] / [115452]
+
+TABLE[59]:
+
+TABLE[60]:
+
+TABLE[61]:
+
+TABLE[62]:
+
+TABLE[63]:
+key/value: [Nashville-Davidson metropolitan government (balance), Tennessee] / [601222]
+
+TABLE[64]:
+key/value: [Louisville/Jefferson County metro government (balance), Kentucky] / [597337]
+
+TABLE[65]:
+
+TABLE[66]:
+key/value: [Augusta-Richmond County consolidated government (balance), Georgia] / [195844]
+
+TABLE[67]:
+
+TABLE[68]:
+
+TABLE[69]:
+
+TABLE[70]:
+
+TABLE[71]:
+
+TABLE[72]:
+
+TABLE[73]:
+
+TABLE[74]:
+
+TABLE[75]:
+
+TABLE[76]:
+
+TABLE[77]:
+
+TABLE[78]:
+
+TABLE[79]:
+
+TABLE[80]:
+
+TABLE[81]:
+
+TABLE[82]:
+
+TABLE[83]:
+
+TABLE[84]:
+
+TABLE[85]:
+
+TABLE[86]:
+
+TABLE[87]:
+
+TABLE[88]:
+
+TABLE[89]:
+
+TABLE[90]:
+
+TABLE[91]:
+
+TABLE[92]:
+
+TABLE[93]:
+
+TABLE[94]:
+
+TABLE[95]:
+
+TABLE[96]:
+
+TABLE[97]:
+
+TABLE[98]:
+
+TABLE[99]:
+
+TABLE[100]:
+
+TABLE[101]:
+
+TABLE[102]:
+
+TABLE[103]:
+
+TABLE[104]:
+
+TABLE[105]:
+
+TABLE[106]:
+
+TABLE[107]:
+
+TABLE[108]:
+
+TABLE[109]:
+
+TABLE[110]:
+
+TABLE[111]:
+
+TABLE[112]:
+
+TABLE[113]:
+
+TABLE[114]:
+
+TABLE[115]:
+
+TABLE[116]:
+
+TABLE[117]:
+
+TABLE[118]:
+
+TABLE[119]:
+
+TABLE[120]:
+
+TABLE[121]:
+
+TABLE[122]:
+
+TABLE[123]:
+
+TABLE[124]:
+
+TABLE[125]:
+
+TABLE[126]:
+
+TABLE[127]:
+
+TABLE[128]:
+
+TABLE[129]:
+
+TABLE[130]:
+
+TABLE[131]:
+
+TABLE[132]:
+
+TABLE[133]:
+
+TABLE[134]:
+
+TABLE[135]:
+
+TABLE[136]:
+
+TABLE[137]:
+
+TABLE[138]:
+
+TABLE[139]:
+
+TABLE[140]:
+
+TABLE[141]:
+
+TABLE[142]:
+
+TABLE[143]:
+
+TABLE[144]:
+
+TABLE[145]:
+
+TABLE[146]:
+
+TABLE[147]:
+
+TABLE[148]:
+
+TABLE[149]:
+
+TABLE[150]:
+
+TABLE[151]:
+
+TABLE[152]:
+
+TABLE[153]:
+
+TABLE[154]:
+
+TABLE[155]:
+
+TABLE[156]:
+
+TABLE[157]:
+
+TABLE[158]:
+
+TABLE[159]:
+
+TABLE[160]:
+
+TABLE[161]:
+
+TABLE[162]:
+
+TABLE[163]:
+
+TABLE[164]:
+
+TABLE[165]:
+
+TABLE[166]:
+
+TABLE[167]:
+
+TABLE[168]:
+
+TABLE[169]:
+
+TABLE[170]:
+
+TABLE[171]:
+
+TABLE[172]:
+
+TABLE[173]:
+
+TABLE[174]:
+
+TABLE[175]:
+
+TABLE[176]:
+
+TABLE[177]:
+
+TABLE[178]:
+
+TABLE[179]:
+
+TABLE[180]:
+
+TABLE[181]:
+
+TABLE[182]:
+
+TABLE[183]:
+
+TABLE[184]:
+
+TABLE[185]:
+
+TABLE[186]:
+
+TABLE[187]:
+
+TABLE[188]:
+
+TABLE[189]:
+
+TABLE[190]:
+
+TABLE[191]:
+
+TABLE[192]:
+
+TABLE[193]:
+
+TABLE[194]:
+
+TABLE[195]:
+
+TABLE[196]:
+
+TABLE[197]:
+
+TABLE[198]:
+
+TABLE[199]:
+
+TABLE[200]:
+
+TABLE[201]:
+
+TABLE[202]:
+
+TABLE[203]:
+
+TABLE[204]:
+
+TABLE[205]:
+
+TABLE[206]:
+
+TABLE[207]:
+
+TABLE[208]:
+
+TABLE[209]:
+
+TABLE[210]:
+
+TABLE[211]:
+
+TABLE[212]:
+
+TABLE[213]:
+
+TABLE[214]:
+
+TABLE[215]:
+
+TABLE[216]:
+
+TABLE[217]:
+
+TABLE[218]:
+
+TABLE[219]:
+
+TABLE[220]:
+
+TABLE[221]:
+
+TABLE[222]:
+
+TABLE[223]:
+
+TABLE[224]:
+
+TABLE[225]:
+
+TABLE[226]:
+
+TABLE[227]:
+
+TABLE[228]:
+
+TABLE[229]:
+
+TABLE[230]:
+
+TABLE[231]:
+
+TABLE[232]:
+
+TABLE[233]:
+
+TABLE[234]:
+
+TABLE[235]:
+
+TABLE[236]:
+
+TABLE[237]:
+
+TABLE[238]:
+
+TABLE[239]:
+
+TABLE[240]:
+
+TABLE[241]:
+
+TABLE[242]:
+
+TABLE[243]:
+
+TABLE[244]:
+
+TABLE[245]:
+
+TABLE[246]:
+
+TABLE[247]:
+
+TABLE[248]:
+
+TABLE[249]:
+
+TABLE[250]:
+
+TABLE[251]:
+
+TABLE[252]:
+
+TABLE[253]:
+
+TABLE[254]:
+
+TABLE[255]:
+
+TABLE[256]:
+
+TABLE[257]:
+
+TABLE[258]:
+
+TABLE[259]:
+
+TABLE[260]:
+
+TABLE[261]:
+
+TABLE[262]:
+
+TABLE[263]:
+
+TABLE[264]:
+
+TABLE[265]:
+
+TABLE[266]:
+
+TABLE[267]:
+
+TABLE[268]:
+
+TABLE[269]:
+
+TABLE[270]:
+
+TABLE[271]:
+
+TABLE[272]:
+
+TABLE[273]:
+
+TABLE[274]:
+
+TABLE[275]:
+
+TABLE[276]:
+
+TABLE[277]:
+
+TABLE[278]:
+
+TABLE[279]:
+
+TABLE[280]:
+
+TABLE[281]:
+
+TABLE[282]:
+
+TABLE[283]:
+
+TABLE[284]:
+
+TABLE[285]:
+
+TABLE[286]:
+
+TABLE[287]:
+
+TABLE[288]:
+
+TABLE[289]:
+
+TABLE[290]:
+
+TABLE[291]:
+
+TABLE[292]:
+
+TABLE[293]:
+
+TABLE[294]:
+
+TABLE[295]:
+
+TABLE[296]:
+
+TABLE[297]:
+
+TABLE[298]:
+
+TABLE[299]:
+
+TABLE[300]:
+
+TABLE[301]:
+
+TABLE[302]:
+
+TABLE[303]:
+
+TABLE[304]:
+
+TABLE[305]:
+
+TABLE[306]:
+
+TABLE[307]:
+
+TABLE[308]:
+
+TABLE[309]:
+
+TABLE[310]:
+
+TABLE[311]:
+
+TABLE[312]:
+
+TABLE[313]:
+
+TABLE[314]:
+
+TABLE[315]:
+
+TABLE[316]:
+
+TABLE[317]:
+
+TABLE[318]:
+
+TABLE[319]:
+
+TABLE[320]:
+
+TABLE[321]:
+
+TABLE[322]:
+
+TABLE[323]:
+
+TABLE[324]:
+
+TABLE[325]:
+
+TABLE[326]:
+
+TABLE[327]:
+
+TABLE[328]:
+
+TABLE[329]:
+
+TABLE[330]:
+
+TABLE[331]:
+
+TABLE[332]:
+
+TABLE[333]:
+
+TABLE[334]:
+
+TABLE[335]:
+
+TABLE[336]:
+
+TABLE[337]:
+
+TABLE[338]:
+
+TABLE[339]:
+
+TABLE[340]:
+
+TABLE[341]:
+
+TABLE[342]:
+
+TABLE[343]:
+
+TABLE[344]:
+
+TABLE[345]:
+
+TABLE[346]:
+
+TABLE[347]:
+
+TABLE[348]:
+
+TABLE[349]:
+
+TABLE[350]:
+
+TABLE[351]:
+
+TABLE[352]:
+
+TABLE[353]:
+
+TABLE[354]:
+
+TABLE[355]:
+
+TABLE[356]:
+
+TABLE[357]:
+
+TABLE[358]:
+
+TABLE[359]:
+
+TABLE[360]:
+
+TABLE[361]:
+
+TABLE[362]:
+
+TABLE[363]:
+
+TABLE[364]:
+
+TABLE[365]:
+
+TABLE[366]:
+
+TABLE[367]:
+
+TABLE[368]:
+
+TABLE[369]:
+
+TABLE[370]:
+
+TABLE[371]:
+
+TABLE[372]:
+
+TABLE[373]:
+
+TABLE[374]:
+
+TABLE[375]:
+
+TABLE[376]:
+
+TABLE[377]:
+
+TABLE[378]:
+
+TABLE[379]:
+
+TABLE[380]:
+
+TABLE[381]:
+
+TABLE[382]:
+
+TABLE[383]:
+
+TABLE[384]:
+
+TABLE[385]:
+
+TABLE[386]:
+
+TABLE[387]:
+
+TABLE[388]:
+
+TABLE[389]:
+
+TABLE[390]:
+
+TABLE[391]:
+
+TABLE[392]:
+
+TABLE[393]:
+
+TABLE[394]:
+
+TABLE[395]:
+
+TABLE[396]:
+
+TABLE[397]:
+
+TABLE[398]:
+
+TABLE[399]:
+
+========================
+
+***** HASH TABLE 2 *****
+
+========================
+TABLE[0]:
+key/value: [Oak Lawn village, Illinois] / [56690]
+key/value: [Milpitas city, California] / [66790]
+key/value: [Daly City city, California] / [101123]
+
+TABLE[1]:
+key/value: [San Marcos city, Texas] / [44894]
+key/value: [Bloomington city, Indiana] / [80405]
+key/value: [Gilbert town, Arizona] / [208453]
+
+TABLE[2]:
+key/value: [Springdale city, Arkansas] / [69797]
+key/value: [Aurora city, Illinois] / [197899]
+
+TABLE[3]:
+key/value: [Buffalo city, New York] / [261310]
+key/value: [Portland city, Oregon] / [583776]
+
+TABLE[4]:
+key/value: [Santa Clarita city, California] / [176320]
+key/value: [Phoenix city, Arizona] / [1445632]
+
+TABLE[5]:
+key/value: [San Buenaventura (Ventura) city, California] / [106433]
+
+TABLE[6]:
+key/value: [Little Elm city, Texas] / [25898]
+key/value: [Murrieta city, California] / [103466]
+
+TABLE[7]:
+key/value: [Yuba City city, California] / [64925]
+key/value: [San Francisco city, California] / [805235]
+
+TABLE[8]:
+key/value: [Cerritos city, California] / [49041]
+key/value: [Meriden city, Connecticut] / [60868]
+key/value: [Jupiter town, Florida] / [55156]
+key/value: [West Jordan city, Utah] / [103712]
+key/value: [Arlington city, Texas] / [365438]
+
+TABLE[9]:
+key/value: [Laguna Niguel city, California] / [62979]
+key/value: [Lafayette city, Louisiana] / [120623]
+key/value: [Kent city, Washington] / [92411]
+
+TABLE[10]:
+key/value: [Warwick city, Rhode Island] / [82672]
+key/value: [Winston-Salem city, North Carolina] / [229617]
+
+TABLE[11]:
+key/value: [Lake Elsinore city, California] / [51821]
+
+TABLE[12]:
+key/value: [Richland city, Washington] / [48058]
+key/value: [Lakeville city, Minnesota] / [55954]
+
+TABLE[13]:
+key/value: [Galveston city, Texas] / [47743]
+key/value: [Huntersville town, North Carolina] / [46773]
+key/value: [Eau Claire city, Wisconsin] / [65883]
+key/value: [Whittier city, California] / [85331]
+
+TABLE[14]:
+
+TABLE[15]:
+key/value: [Berwyn city, Illinois] / [56657]
+key/value: [Newport Beach city, California] / [85186]
+key/value: [Overland Park city, Kansas] / [173372]
+
+TABLE[16]:
+key/value: [Normal town, Illinois] / [52497]
+key/value: [Des Plaines city, Illinois] / [58364]
+key/value: [Nashua city, New Hampshire] / [86494]
+
+TABLE[17]:
+key/value: [Round Rock city, Texas] / [99887]
+
+TABLE[18]:
+key/value: [Castle Rock town, Colorado] / [48231]
+key/value: [Wilmington city, Delaware] / [70851]
+key/value: [Stockton city, California] / [291707]
+
+TABLE[19]:
+
+TABLE[20]:
+
+TABLE[21]:
+
+TABLE[22]:
+key/value: [Little Rock city, Arkansas] / [193524]
+
+TABLE[23]:
+key/value: [Kirkland city, Washington] / [48787]
+
+TABLE[24]:
+key/value: [Texas City city, Texas] / [45099]
+
+TABLE[25]:
+key/value: [Danbury city, Connecticut] / [80893]
+key/value: [Rio Rancho city, New Mexico] / [87521]
+key/value: [Las Cruces city, New Mexico] / [97618]
+key/value: [Elizabeth city, New Jersey] / [124969]
+
+TABLE[26]:
+key/value: [Naperville city, Illinois] / [141853]
+
+TABLE[27]:
+key/value: [Bolingbrook village, Illinois] / [73366]
+key/value: [Cambridge city, Massachusetts] / [105162]
+key/value: [Bellevue city, Washington] / [122363]
+
+TABLE[28]:
+key/value: [Stillwater city, Oklahoma] / [45688]
+key/value: [Joplin city, Missouri] / [50150]
+key/value: [National City city, California] / [58582]
+
+TABLE[29]:
+key/value: [Lakewood city, Washington] / [58163]
+
+TABLE[30]:
+
+TABLE[31]:
+key/value: [Schenectady city, New York] / [66135]
+
+TABLE[32]:
+key/value: [Rochester Hills city, Michigan] / [70995]
+
+TABLE[33]:
+key/value: [Thousand Oaks city, California] / [126683]
+
+TABLE[34]:
+key/value: [St. Cloud city, Florida] / [35183]
+key/value: [Norwalk city, Connecticut] / [85603]
+key/value: [Rochester city, Minnesota] / [106769]
+
+TABLE[35]:
+key/value: [Bristol city, Connecticut] / [60477]
+
+TABLE[36]:
+
+TABLE[37]:
+
+TABLE[38]:
+key/value: [Asheville city, North Carolina] / [83393]
+key/value: [Milwaukee city, Wisconsin] / [594833]
+
+TABLE[39]:
+
+TABLE[40]:
+key/value: [Milford city (balance), Connecticut] / [51271]
+
+TABLE[41]:
+key/value: [Fort Worth city, Texas] / [741206]
+
+TABLE[42]:
+key/value: [Manchester city, New Hampshire] / [109565]
+key/value: [Moreno Valley city, California] / [193365]
+
+TABLE[43]:
+key/value: [Jackson city, Mississippi] / [173514]
+key/value: [Knoxville city, Tennessee] / [178874]
+
+TABLE[44]:
+key/value: [Gary city, Indiana] / [80294]
+key/value: [New Rochelle city, New York] / [77062]
+key/value: [Mission Viejo city, California] / [93305]
+
+TABLE[45]:
+
+TABLE[46]:
+key/value: [Monterey Park city, California] / [60269]
+key/value: [South Fulton city, Georgia] / [0]
+
+TABLE[47]:
+key/value: [Yonkers city, New York] / [195976]
+key/value: [Charlotte city, North Carolina] / [731424]
+
+TABLE[48]:
+key/value: [Kingsport city, Tennessee] / [48205]
+
+TABLE[49]:
+key/value: [Idaho Falls city, Idaho] / [56813]
+key/value: [Youngstown city, Ohio] / [66982]
+key/value: [Jurupa Valley city, California] / [0]
+
+TABLE[50]:
+key/value: [Lakeland city, Florida] / [97422]
+
+TABLE[51]:
+key/value: [Mountain View city, California] / [74066]
+key/value: [Chico city, California] / [86187]
+key/value: [High Point city, North Carolina] / [104371]
+key/value: [New York city, New York] / [8175133]
+
+TABLE[52]:
+
+TABLE[53]:
+
+TABLE[54]:
+
+TABLE[55]:
+key/value: [Weymouth Town city, Massachusetts] / [53743]
+
+TABLE[56]:
+key/value: [DeSoto city, Texas] / [49047]
+
+TABLE[57]:
+
+TABLE[58]:
+key/value: [West Allis city, Wisconsin] / [60411]
+key/value: [Kansas City city, Missouri] / [459787]
+
+TABLE[59]:
+key/value: [Dallas city, Texas] / [1197816]
+
+TABLE[60]:
+key/value: [White Plains city, New York] / [56853]
+key/value: [Haverhill city, Massachusetts] / [60879]
+key/value: [Corpus Christi city, Texas] / [305215]
+
+TABLE[61]:
+
+TABLE[62]:
+key/value: [Chino city, California] / [77983]
+
+TABLE[63]:
+key/value: [Saginaw city, Michigan] / [51508]
+key/value: [Mesa city, Arizona] / [439041]
+
+TABLE[64]:
+key/value: [Hemet city, California] / [78657]
+key/value: [Indio city, California] / [76036]
+key/value: [West Valley City city, Utah] / [129480]
+key/value: [Long Beach city, California] / [462257]
+
+TABLE[65]:
+key/value: [Lansing city, Michigan] / [114297]
+key/value: [Salem city, Oregon] / [154637]
+key/value: [Laredo city, Texas] / [236091]
+
+TABLE[66]:
+
+TABLE[67]:
+key/value: [Anderson city, Indiana] / [56129]
+key/value: [Pontiac city, Michigan] / [59515]
+key/value: [Union City city, New Jersey] / [66455]
+key/value: [Portsmouth city, Virginia] / [95535]
+key/value: [Fairfield city, California] / [105321]
+key/value: [Savannah city, Georgia] / [136286]
+
+TABLE[68]:
+key/value: [Charleston city, West Virginia] / [51400]
+key/value: [Davis city, California] / [65622]
+key/value: [Fall River city, Massachusetts] / [88857]
+
+TABLE[69]:
+key/value: [Florissant city, Missouri] / [52158]
+key/value: [Glendale city, Arizona] / [226721]
+
+TABLE[70]:
+key/value: [Chicago city, Illinois] / [2695598]
+
+TABLE[71]:
+key/value: [Livonia city, Michigan] / [96942]
+key/value: [Cedar Rapids city, Iowa] / [126326]
+
+TABLE[72]:
+key/value: [Oceanside city, California] / [167086]
+
+TABLE[73]:
+key/value: [Daytona Beach city, Florida] / [61005]
+key/value: [Odessa city, Texas] / [99940]
+
+TABLE[74]:
+key/value: [San Rafael city, California] / [57713]
+key/value: [Marietta city, Georgia] / [56579]
+key/value: [Chandler city, Arizona] / [236123]
+key/value: [Henderson city, Nevada] / [257729]
+
+TABLE[75]:
+key/value: [Battle Creek city, Michigan] / [52347]
+key/value: [Lincoln city, Nebraska] / [258379]
+
+TABLE[76]:
+
+TABLE[77]:
+
+TABLE[78]:
+key/value: [Placentia city, California] / [50533]
+key/value: [Blaine city, Minnesota] / [57186]
+key/value: [El Paso city, Texas] / [649121]
+
+TABLE[79]:
+
+TABLE[80]:
+key/value: [Dubuque city, Iowa] / [57637]
+key/value: [Conroe city, Texas] / [56207]
+key/value: [Tracy city, California] / [82922]
+key/value: [Frisco city, Texas] / [116989]
+key/value: [Detroit city, Michigan] / [713777]
+
+TABLE[81]:
+key/value: [Valdosta city, Georgia] / [54518]
+key/value: [Camarillo city, California] / [65201]
+key/value: [Temple city, Texas] / [66102]
+
+TABLE[82]:
+key/value: [Manhattan city, Kansas] / [52281]
+key/value: [Denton city, Texas] / [113383]
+key/value: [Port St. Lucie city, Florida] / [164603]
+
+TABLE[83]:
+key/value: [Grand Island city, Nebraska] / [48520]
+key/value: [Avondale city, Arizona] / [76238]
+key/value: [Pompano Beach city, Florida] / [99845]
+
+TABLE[84]:
+key/value: [Sarasota city, Florida] / [51917]
+key/value: [Vacaville city, California] / [92428]
+key/value: [Vista city, California] / [93834]
+key/value: [Grand Rapids city, Michigan] / [188040]
+
+TABLE[85]:
+key/value: [Maricopa city, Arizona] / [43482]
+key/value: [Yuma city, Arizona] / [93064]
+key/value: [Boulder city, Colorado] / [97385]
+key/value: [Greeley city, Colorado] / [92889]
+key/value: [Escondido city, California] / [143911]
+
+TABLE[86]:
+key/value: [Buena Park city, California] / [80530]
+
+TABLE[87]:
+key/value: [Palm Beach Gardens city, Florida] / [48452]
+key/value: [Billings city, Montana] / [104170]
+key/value: [Miami Gardens city, Florida] / [107167]
+
+TABLE[88]:
+
+TABLE[89]:
+key/value: [Camden city, New Jersey] / [77344]
+key/value: [Irving city, Texas] / [216290]
+key/value: [Pittsburgh city, Pennsylvania] / [305704]
+
+TABLE[90]:
+key/value: [Lancaster city, California] / [156633]
+
+TABLE[91]:
+key/value: [Euless city, Texas] / [51277]
+key/value: [Springfield city, Ohio] / [60608]
+key/value: [Encinitas city, California] / [59518]
+key/value: [Worcester city, Massachusetts] / [181045]
+
+TABLE[92]:
+
+TABLE[93]:
+key/value: [Kenner city, Louisiana] / [66702]
+key/value: [Roanoke city, Virginia] / [97032]
+key/value: [Costa Mesa city, California] / [109960]
+key/value: [Columbus city, Georgia] / [189885]
+
+TABLE[94]:
+key/value: [Austin city, Texas] / [790390]
+
+TABLE[95]:
+key/value: [Mount Vernon city, New York] / [67292]
+key/value: [Wyoming city, Michigan] / [72125]
+
+TABLE[96]:
+key/value: [Decatur city, Illinois] / [76122]
+
+TABLE[97]:
+key/value: [Palatine village, Illinois] / [68557]
+
+TABLE[98]:
+key/value: [Boynton Beach city, Florida] / [68217]
+
+TABLE[99]:
+key/value: [Goodyear city, Arizona] / [65275]
+
+TABLE[100]:
+key/value: [Racine city, Wisconsin] / [78860]
+key/value: [San Marcos city, California] / [83781]
+
+TABLE[101]:
+key/value: [Lacey city, Washington] / [42393]
+key/value: [Beaverton city, Oregon] / [89803]
+key/value: [Inglewood city, California] / [109673]
+key/value: [Hampton city, Virginia] / [137436]
+
+TABLE[102]:
+key/value: [League City city, Texas] / [83560]
+
+TABLE[103]:
+key/value: [Richardson city, Texas] / [99223]
+
+TABLE[104]:
+key/value: [Suffolk city, Virginia] / [84585]
+
+TABLE[105]:
+key/value: [Santa Rosa city, California] / [167815]
+key/value: [Norfolk city, Virginia] / [242803]
+key/value: [Anchorage municipality, Alaska] / [291826]
+
+TABLE[106]:
+key/value: [Riverside city, California] / [303871]
+
+TABLE[107]:
+key/value: [Coconut Creek city, Florida] / [52909]
+key/value: [Nashville-Davidson metropolitan government (balance), Tennessee] / [601222]
+key/value: [Indianapolis city (balance), Indiana] / [820445]
+key/value: [Jacksonville city, Florida] / [821784]
+
+TABLE[108]:
+key/value: [Pinellas Park city, Florida] / [49079]
+
+TABLE[109]:
+key/value: [Pasco city, Washington] / [59781]
+key/value: [Hawthorne city, California] / [84293]
+key/value: [Hillsboro city, Oregon] / [91611]
+
+TABLE[110]:
+key/value: [Wheaton city, Illinois] / [52894]
+key/value: [Cathedral City city, California] / [51200]
+key/value: [Dearborn Heights city, Michigan] / [57774]
+key/value: [Corvallis city, Oregon] / [54462]
+key/value: [Cheyenne city, Wyoming] / [59466]
+
+TABLE[111]:
+key/value: [Lee's Summit city, Missouri] / [91364]
+
+TABLE[112]:
+key/value: [Bismarck city, North Dakota] / [61272]
+key/value: [Missoula city, Montana] / [66788]
+
+TABLE[113]:
+key/value: [Brentwood city, California] / [51481]
+key/value: [South Gate city, California] / [94396]
+
+TABLE[114]:
+key/value: [Livermore city, California] / [80968]
+key/value: [Roseville city, California] / [118788]
+
+TABLE[115]:
+key/value: [San Bernardino city, California] / [209924]
+
+TABLE[116]:
+key/value: [Paramount city, California] / [54098]
+key/value: [San Antonio city, Texas] / [1327407]
+
+TABLE[117]:
+key/value: [North Las Vegas city, Nevada] / [216961]
+
+TABLE[118]:
+key/value: [Cupertino city, California] / [58302]
+key/value: [Rancho Cordova city, California] / [64776]
+
+TABLE[119]:
+key/value: [Reading city, Pennsylvania] / [88082]
+
+TABLE[120]:
+key/value: [Santa Cruz city, California] / [59946]
+key/value: [South Jordan city, Utah] / [50418]
+key/value: [Fullerton city, California] / [135161]
+
+TABLE[121]:
+key/value: [Niagara Falls city, New York] / [50193]
+key/value: [Plainfield city, New Jersey] / [49808]
+key/value: [Duluth city, Minnesota] / [86265]
+key/value: [Newark city, New Jersey] / [277140]
+
+TABLE[122]:
+key/value: [Hempstead village, New York] / [53891]
+key/value: [Carson City, Nevada] / [55274]
+key/value: [Cranston city, Rhode Island] / [80387]
+key/value: [Lewisville city, Texas] / [95290]
+key/value: [Carrollton city, Texas] / [119097]
+key/value: [Durham city, North Carolina] / [228330]
+
+TABLE[123]:
+key/value: [Bentonville city, Arkansas] / [35301]
+key/value: [Georgetown city, Texas] / [47400]
+key/value: [Mount Pleasant town, South Carolina] / [67843]
+
+TABLE[124]:
+
+TABLE[125]:
+key/value: [Broken Arrow city, Oklahoma] / [98850]
+key/value: [Coral Springs city, Florida] / [121096]
+
+TABLE[126]:
+key/value: [Malden city, Massachusetts] / [59450]
+key/value: [Hartford city, Connecticut] / [124775]
+
+TABLE[127]:
+key/value: [Union City city, California] / [69516]
+key/value: [Warner Robins city, Georgia] / [66588]
+key/value: [Springfield city, Illinois] / [116250]
+
+TABLE[128]:
+key/value: [New Haven city, Connecticut] / [129779]
+key/value: [Baton Rouge city, Louisiana] / [229493]
+
+TABLE[129]:
+key/value: [Pittsburg city, California] / [63264]
+
+TABLE[130]:
+key/value: [Troy city, New York] / [50129]
+key/value: [O'Fallon city, Missouri] / [79329]
+key/value: [Sunnyvale city, California] / [140081]
+
+TABLE[131]:
+
+TABLE[132]:
+key/value: [Stamford city, Connecticut] / [122643]
+
+TABLE[133]:
+key/value: [Coon Rapids city, Minnesota] / [61476]
+key/value: [Maple Grove city, Minnesota] / [61567]
+
+TABLE[134]:
+key/value: [Ocala city, Florida] / [56315]
+key/value: [Farmington Hills city, Michigan] / [79740]
+key/value: [Kennewick city, Washington] / [73917]
+key/value: [Surprise city, Arizona] / [117517]
+key/value: [McAllen city, Texas] / [129877]
+
+TABLE[135]:
+key/value: [Minnetonka city, Minnesota] / [49734]
+key/value: [Midwest City city, Oklahoma] / [54371]
+key/value: [Sammamish city, Washington] / [45780]
+key/value: [College Station city, Texas] / [93857]
+key/value: [Fort Collins city, Colorado] / [143986]
+
+TABLE[136]:
+key/value: [Smyrna town, Tennessee] / [39974]
+key/value: [Sandy Springs city, Georgia] / [93853]
+key/value: [New Orleans city, Louisiana] / [343829]
+
+TABLE[137]:
+key/value: [Lehi city, Utah] / [47407]
+key/value: [Sterling Heights city, Michigan] / [129699]
+
+TABLE[138]:
+key/value: [East Orange city, New Jersey] / [64270]
+
+TABLE[139]:
+key/value: [Ames city, Iowa] / [58965]
+
+TABLE[140]:
+
+TABLE[141]:
+
+TABLE[142]:
+key/value: [Chapel Hill town, North Carolina] / [57233]
+
+TABLE[143]:
+key/value: [Janesville city, Wisconsin] / [63575]
+
+TABLE[144]:
+key/value: [Shoreline city, Washington] / [53007]
+key/value: [Bloomington city, Illinois] / [76610]
+
+TABLE[145]:
+key/value: [Enid city, Oklahoma] / [49379]
+
+TABLE[146]:
+
+TABLE[147]:
+key/value: [Citrus Heights city, California] / [83301]
+key/value: [Syracuse city, New York] / [145170]
+key/value: [Miami city, Florida] / [399457]
+
+TABLE[148]:
+
+TABLE[149]:
+key/value: [Port Arthur city, Texas] / [53818]
+
+TABLE[150]:
+key/value: [Revere city, Massachusetts] / [51755]
+key/value: [Greenville city, North Carolina] / [84554]
+
+TABLE[151]:
+key/value: [Madera city, California] / [61416]
+key/value: [Framingham city, Massachusetts] / [0]
+key/value: [Springfield city, Missouri] / [159498]
+
+TABLE[152]:
+key/value: [Doral city, Florida] / [45704]
+
+TABLE[153]:
+key/value: [Kannapolis city, North Carolina] / [42625]
+key/value: [Burnsville city, Minnesota] / [60306]
+key/value: [Tampa city, Florida] / [335709]
+
+TABLE[154]:
+key/value: [Orem city, Utah] / [88328]
+key/value: [Abilene city, Texas] / [117063]
+
+TABLE[155]:
+key/value: [Largo city, Florida] / [77648]
+
+TABLE[156]:
+key/value: [Perth Amboy city, New Jersey] / [50814]
+key/value: [Lowell city, Massachusetts] / [106519]
+key/value: [Shreveport city, Louisiana] / [199311]
+
+TABLE[157]:
+key/value: [Merced city, California] / [78958]
+key/value: [New Bedford city, Massachusetts] / [95072]
+key/value: [Westminster city, Colorado] / [106114]
+
+TABLE[158]:
+key/value: [Greenville city, South Carolina] / [58409]
+key/value: [Davie town, Florida] / [91992]
+
+TABLE[159]:
+key/value: [Mishawaka city, Indiana] / [48252]
+key/value: [Greensboro city, North Carolina] / [269666]
+
+TABLE[160]:
+key/value: [Delano city, California] / [53041]
+key/value: [La Mesa city, California] / [57065]
+key/value: [Vancouver city, Washington] / [161791]
+key/value: [Cape Coral city, Florida] / [154305]
+
+TABLE[161]:
+key/value: [Hendersonville city, Tennessee] / [51372]
+key/value: [Novi city, Michigan] / [55224]
+key/value: [Colorado Springs city, Colorado] / [416427]
+
+TABLE[162]:
+key/value: [Dearborn city, Michigan] / [98153]
+key/value: [Boston city, Massachusetts] / [617594]
+
+TABLE[163]:
+key/value: [Lenexa city, Kansas] / [48190]
+key/value: [Olathe city, Kansas] / [125872]
+key/value: [Midland city, Texas] / [111147]
+key/value: [Garland city, Texas] / [226876]
+
+TABLE[164]:
+key/value: [Charleston city, South Carolina] / [120083]
+
+TABLE[165]:
+key/value: [Leander city, Texas] / [26521]
+
+TABLE[166]:
+key/value: [Albany city, Oregon] / [50158]
+key/value: [North Richland Hills city, Texas] / [63343]
+key/value: [Quincy city, Massachusetts] / [92271]
+
+TABLE[167]:
+
+TABLE[168]:
+key/value: [Lafayette city, Indiana] / [67140]
+key/value: [Newton city, Massachusetts] / [85146]
+key/value: [Sparks city, Nevada] / [90264]
+key/value: [Ann Arbor city, Michigan] / [113934]
+key/value: [Eugene city, Oregon] / [156185]
+key/value: [Louisville/Jefferson County metro government (balance), Kentucky] / [597337]
+
+TABLE[169]:
+key/value: [Orange city, California] / [136416]
+
+TABLE[170]:
+key/value: [Lakewood city, Ohio] / [52131]
+key/value: [Tigard city, Oregon] / [48035]
+key/value: [South San Francisco city, California] / [63632]
+key/value: [Topeka city, Kansas] / [127473]
+key/value: [Newport News city, Virginia] / [180719]
+key/value: [St. Paul city, Minnesota] / [285068]
+
+TABLE[171]:
+key/value: [Dublin city, California] / [46036]
+
+TABLE[172]:
+key/value: [Pensacola city, Florida] / [51923]
+key/value: [Lubbock city, Texas] / [229573]
+key/value: [Jersey City city, New Jersey] / [247597]
+
+TABLE[173]:
+key/value: [Herriman city, Utah] / [21785]
+key/value: [Burlington city, North Carolina] / [49963]
+key/value: [Santee city, California] / [53413]
+key/value: [Arlington Heights village, Illinois] / [75101]
+
+TABLE[174]:
+key/value: [Diamond Bar city, California] / [55544]
+key/value: [Blue Springs city, Missouri] / [52575]
+key/value: [Killeen city, Texas] / [127921]
+
+TABLE[175]:
+key/value: [Boca Raton city, Florida] / [84392]
+key/value: [Corona city, California] / [152374]
+
+TABLE[176]:
+key/value: [Bellevue city, Nebraska] / [50137]
+key/value: [Hamilton city, Ohio] / [62477]
+key/value: [Homestead city, Florida] / [60512]
+
+TABLE[177]:
+key/value: [North Little Rock city, Arkansas] / [62304]
+key/value: [Upland city, California] / [73732]
+key/value: [Wilmington city, North Carolina] / [106476]
+
+TABLE[178]:
+
+TABLE[179]:
+key/value: [Bradenton city, Florida] / [49546]
+key/value: [Greenwood city, Indiana] / [49791]
+key/value: [Troy city, Michigan] / [80980]
+key/value: [Carson city, California] / [91714]
+
+TABLE[180]:
+key/value: [Tempe city, Arizona] / [161719]
+
+TABLE[181]:
+key/value: [Gulfport city, Mississippi] / [67793]
+key/value: [Spokane Valley city, Washington] / [89755]
+key/value: [South Bend city, Indiana] / [101168]
+
+TABLE[182]:
+
+TABLE[183]:
+key/value: [Royal Oak city, Michigan] / [57236]
+key/value: [Flagstaff city, Arizona] / [65870]
+key/value: [Westland city, Michigan] / [84094]
+key/value: [Santa Clara city, California] / [116468]
+key/value: [Pomona city, California] / [149058]
+
+TABLE[184]:
+key/value: [Rialto city, California] / [99171]
+
+TABLE[185]:
+key/value: [Oxnard city, California] / [197899]
+
+TABLE[186]:
+key/value: [Tulare city, California] / [59278]
+key/value: [Palm Coast city, Florida] / [75180]
+key/value: [Irvine city, California] / [212375]
+key/value: [Fresno city, California] / [494665]
+
+TABLE[187]:
+
+TABLE[188]:
+key/value: [Colton city, California] / [52154]
+
+TABLE[189]:
+key/value: [Kissimmee city, Florida] / [59682]
+key/value: [Loveland city, Colorado] / [66859]
+key/value: [Folsom city, California] / [72203]
+key/value: [Clovis city, California] / [95631]
+
+TABLE[190]:
+key/value: [Iowa City city, Iowa] / [67862]
+key/value: [Santa Maria city, California] / [99553]
+key/value: [Lakewood city, Colorado] / [142980]
+key/value: [St. Petersburg city, Florida] / [244769]
+key/value: [Columbus city, Ohio] / [787033]
+
+TABLE[191]:
+key/value: [Somerville city, Massachusetts] / [75754]
+key/value: [Melbourne city, Florida] / [76068]
+
+TABLE[192]:
+key/value: [Kentwood city, Michigan] / [48707]
+
+TABLE[193]:
+
+TABLE[194]:
+key/value: [Waterloo city, Iowa] / [68406]
+key/value: [Yorba Linda city, California] / [64234]
+key/value: [Perris city, California] / [68386]
+key/value: [Richmond city, Virginia] / [204214]
+
+TABLE[195]:
+key/value: [Gilroy city, California] / [48821]
+key/value: [Downey city, California] / [111772]
+key/value: [Fargo city, North Dakota] / [105549]
+
+TABLE[196]:
+key/value: [Rocky Mount city, North Carolina] / [57477]
+key/value: [Novato city, California] / [51904]
+key/value: [San Leandro city, California] / [84950]
+
+TABLE[197]:
+
+TABLE[198]:
+key/value: [Santa Fe city, New Mexico] / [67947]
+key/value: [West Palm Beach city, Florida] / [99919]
+
+TABLE[199]:
+
+TABLE[200]:
+key/value: [Coeur d'Alene city, Idaho] / [44137]
+key/value: [Jackson city, Tennessee] / [65211]
+key/value: [Fort Wayne city, Indiana] / [253691]
+
+TABLE[201]:
+key/value: [Lake Charles city, Louisiana] / [71993]
+
+TABLE[202]:
+key/value: [Utica city, New York] / [62235]
+key/value: [Chino Hills city, California] / [74799]
+key/value: [Sacramento city, California] / [466488]
+key/value: [Los Angeles city, California] / [3792621]
+
+TABLE[203]:
+key/value: [Bellflower city, California] / [76616]
+key/value: [Waukegan city, Illinois] / [89078]
+
+TABLE[204]:
+key/value: [Mission city, Texas] / [77058]
+key/value: [Tacoma city, Washington] / [198397]
+
+TABLE[205]:
+key/value: [Lake Forest city, California] / [77264]
+
+TABLE[206]:
+key/value: [Palm Desert city, California] / [48445]
+key/value: [Montebello city, California] / [62500]
+key/value: [Baytown city, Texas] / [71802]
+
+TABLE[207]:
+
+TABLE[208]:
+key/value: [Kansas City city, Kansas] / [145786]
+
+TABLE[209]:
+key/value: [Pico Rivera city, California] / [62942]
+key/value: [Salt Lake City city, Utah] / [186440]
+key/value: [Chula Vista city, California] / [243916]
+key/value: [St. Louis city, Missouri] / [319294]
+
+TABLE[210]:
+key/value: [Aliso Viejo city, California] / [47823]
+key/value: [Pleasanton city, California] / [70285]
+key/value: [Erie city, Pennsylvania] / [101786]
+key/value: [Rockford city, Illinois] / [152871]
+key/value: [Memphis city, Tennessee] / [646889]
+
+TABLE[211]:
+key/value: [Yakima city, Washington] / [91067]
+
+TABLE[212]:
+key/value: [Wellington village, Florida] / [56508]
+key/value: [Tustin city, California] / [75540]
+
+TABLE[213]:
+key/value: [Passaic city, New Jersey] / [69781]
+key/value: [Raleigh city, North Carolina] / [403892]
+
+TABLE[214]:
+key/value: [Leesburg town, Virginia] / [42616]
+key/value: [Longmont city, Colorado] / [86270]
+key/value: [Oklahoma City city, Oklahoma] / [579999]
+
+TABLE[215]:
+key/value: [Hoboken city, New Jersey] / [50005]
+key/value: [Hollywood city, Florida] / [140768]
+
+TABLE[216]:
+key/value: [Chattanooga city, Tennessee] / [167674]
+
+TABLE[217]:
+
+TABLE[218]:
+key/value: [Bellingham city, Washington] / [80885]
+key/value: [Pembroke Pines city, Florida] / [154750]
+key/value: [Houston city, Texas] / [2099451]
+
+TABLE[219]:
+key/value: [West Lafayette city, Indiana] / [29596]
+key/value: [Eden Prairie city, Minnesota] / [60797]
+key/value: [Rowlett city, Texas] / [56199]
+key/value: [Kenosha city, Wisconsin] / [99218]
+
+TABLE[220]:
+key/value: [Burien city, Washington] / [33313]
+key/value: [Commerce City city, Colorado] / [45913]
+key/value: [Columbia city, Missouri] / [108500]
+key/value: [Simi Valley city, California] / [124237]
+key/value: [Mobile city, Alabama] / [195111]
+
+TABLE[221]:
+key/value: [Bayonne city, New Jersey] / [63024]
+key/value: [Madison city, Wisconsin] / [233209]
+
+TABLE[222]:
+key/value: [Athens-Clarke County unified government (balance), Georgia] / [115452]
+
+TABLE[223]:
+
+TABLE[224]:
+key/value: [Clifton city, New Jersey] / [84136]
+key/value: [West Covina city, California] / [106098]
+
+TABLE[225]:
+key/value: [Fort Myers city, Florida] / [62298]
+key/value: [Concord city, North Carolina] / [79066]
+
+TABLE[226]:
+key/value: [Dothan city, Alabama] / [65496]
+key/value: [Independence city, Missouri] / [116830]
+
+TABLE[227]:
+
+TABLE[228]:
+key/value: [Gaithersburg city, Maryland] / [59933]
+key/value: [Auburn city, Washington] / [70180]
+key/value: [Thornton city, Colorado] / [118772]
+
+TABLE[229]:
+key/value: [St. George city, Utah] / [72897]
+
+TABLE[230]:
+key/value: [North Port city, Florida] / [57357]
+key/value: [Evanston city, Illinois] / [74486]
+
+TABLE[231]:
+key/value: [Fayetteville city, Arkansas] / [73580]
+
+TABLE[232]:
+
+TABLE[233]:
+key/value: [Bonita Springs city, Florida] / [43914]
+
+TABLE[234]:
+key/value: [Pawtucket city, Rhode Island] / [71148]
+
+TABLE[235]:
+key/value: [Federal Way city, Washington] / [89306]
+key/value: [Clarksville city, Tennessee] / [132929]
+
+TABLE[236]:
+
+TABLE[237]:
+key/value: [Carmel city, Indiana] / [79191]
+key/value: [Renton city, Washington] / [90927]
+
+TABLE[238]:
+key/value: [Medford city, Massachusetts] / [56173]
+
+TABLE[239]:
+
+TABLE[240]:
+
+TABLE[241]:
+key/value: [Peabody city, Massachusetts] / [51251]
+key/value: [Taylorsville city, Utah] / [58652]
+key/value: [Auburn city, Alabama] / [53380]
+key/value: [Oshkosh city, Wisconsin] / [66083]
+key/value: [Brownsville city, Texas] / [175023]
+
+TABLE[242]:
+key/value: [Apple Valley city, Minnesota] / [49084]
+key/value: [Arcadia city, California] / [56364]
+key/value: [Caldwell city, Idaho] / [46237]
+key/value: [Alameda city, California] / [73812]
+key/value: [Birmingham city, Alabama] / [212237]
+key/value: [Minneapolis city, Minnesota] / [382578]
+key/value: [Omaha city, Nebraska] / [408958]
+key/value: [Philadelphia city, Pennsylvania] / [1526006]
+
+TABLE[243]:
+key/value: [Meridian city, Idaho] / [75092]
+key/value: [Rochester city, New York] / [210565]
+
+TABLE[244]:
+key/value: [Harrisonburg city, Virginia] / [48914]
+key/value: [Ogden city, Utah] / [82825]
+
+TABLE[245]:
+key/value: [Rapid City city, South Dakota] / [67956]
+key/value: [Parma city, Ohio] / [81601]
+
+TABLE[246]:
+key/value: [Bowling Green city, Kentucky] / [58067]
+key/value: [Miami Beach city, Florida] / [87779]
+
+TABLE[247]:
+key/value: [Hoover city, Alabama] / [81619]
+
+TABLE[248]:
+key/value: [Logan city, Utah] / [48174]
+key/value: [La Habra city, California] / [60239]
+
+TABLE[249]:
+key/value: [West Haven city, Connecticut] / [55564]
+
+TABLE[250]:
+key/value: [Muncie city, Indiana] / [70085]
+key/value: [Bossier City city, Louisiana] / [61315]
+key/value: [Albany city, Georgia] / [77434]
+
+TABLE[251]:
+key/value: [Waltham city, Massachusetts] / [60632]
+key/value: [Flower Mound town, Texas] / [64669]
+key/value: [Trenton city, New Jersey] / [84913]
+key/value: [Bloomington city, Minnesota] / [82893]
+
+TABLE[252]:
+
+TABLE[253]:
+key/value: [West Sacramento city, California] / [48744]
+key/value: [Deerfield Beach city, Florida] / [75018]
+
+TABLE[254]:
+key/value: [Fountain Valley city, California] / [55313]
+
+TABLE[255]:
+key/value: [Gardena city, California] / [58829]
+key/value: [Akron city, Ohio] / [199110]
+
+TABLE[256]:
+key/value: [Anaheim city, California] / [336265]
+key/value: [Albuquerque city, New Mexico] / [545852]
+
+TABLE[257]:
+
+TABLE[258]:
+key/value: [Apopka city, Florida] / [41542]
+key/value: [Flint city, Michigan] / [102434]
+key/value: [Cleveland city, Ohio] / [396815]
+
+TABLE[259]:
+
+TABLE[260]:
+key/value: [Waco city, Texas] / [124805]
+
+TABLE[261]:
+key/value: [Scranton city, Pennsylvania] / [76089]
+
+TABLE[262]:
+key/value: [Manteca city, California] / [67096]
+key/value: [Menifee city, California] / [77519]
+key/value: [Sandy city, Utah] / [87461]
+
+TABLE[263]:
+key/value: [Johnson City city, Tennessee] / [63152]
+key/value: [Pasadena city, Texas] / [149043]
+key/value: [Oakland city, California] / [390724]
+
+TABLE[264]:
+key/value: [McKinney city, Texas] / [131117]
+
+TABLE[265]:
+key/value: [Huntington Park city, California] / [58114]
+key/value: [Kokomo city, Indiana] / [45468]
+key/value: [El Cajon city, California] / [99478]
+key/value: [Waterbury city, Connecticut] / [110366]
+
+TABLE[266]:
+key/value: [Redding city, California] / [89861]
+
+TABLE[267]:
+
+TABLE[268]:
+
+TABLE[269]:
+
+TABLE[270]:
+
+TABLE[271]:
+key/value: [Hanford city, California] / [53967]
+key/value: [Millcreek city, Utah] / [0]
+key/value: [St. Cloud city, Minnesota] / [65842]
+key/value: [Marysville city, Washington] / [60020]
+key/value: [Wichita city, Kansas] / [382368]
+
+TABLE[272]:
+key/value: [Medford city, Oregon] / [74907]
+
+TABLE[273]:
+key/value: [Shawnee city, Kansas] / [62209]
+key/value: [Pearland city, Texas] / [91252]
+
+TABLE[274]:
+key/value: [Casa Grande city, Arizona] / [48571]
+key/value: [Tuscaloosa city, Alabama] / [90468]
+key/value: [Burbank city, California] / [103340]
+
+TABLE[275]:
+key/value: [Bowie city, Maryland] / [54727]
+key/value: [Moore city, Oklahoma] / [55081]
+key/value: [Portland city, Maine] / [66194]
+key/value: [Antioch city, California] / [102372]
+
+TABLE[276]:
+key/value: [Kalamazoo city, Michigan] / [74262]
+key/value: [Springfield city, Massachusetts] / [153060]
+key/value: [Fontana city, California] / [196069]
+
+TABLE[277]:
+key/value: [Concord city, California] / [122067]
+
+TABLE[278]:
+key/value: [Taunton city, Massachusetts] / [55874]
+key/value: [Gresham city, Oregon] / [105594]
+key/value: [Visalia city, California] / [124442]
+
+TABLE[279]:
+key/value: [Elgin city, Illinois] / [108188]
+
+TABLE[280]:
+key/value: [Salinas city, California] / [150441]
+
+TABLE[281]:
+key/value: [Yucaipa city, California] / [51367]
+key/value: [Alpharetta city, Georgia] / [57551]
+key/value: [Peoria city, Arizona] / [154065]
+key/value: [Bakersfield city, California] / [347483]
+
+TABLE[282]:
+key/value: [Edinburg city, Texas] / [77100]
+key/value: [Vallejo city, California] / [115942]
+key/value: [Tulsa city, Oklahoma] / [391906]
+
+TABLE[283]:
+key/value: [Amarillo city, Texas] / [190695]
+
+TABLE[284]:
+key/value: [Lauderhill city, Florida] / [66887]
+key/value: [Frederick city, Maryland] / [65239]
+key/value: [Des Moines city, Iowa] / [203433]
+
+TABLE[285]:
+key/value: [Smyrna city, Georgia] / [51271]
+key/value: [Provo city, Utah] / [112488]
+key/value: [Hayward city, California] / [144186]
+
+TABLE[286]:
+
+TABLE[287]:
+key/value: [Southaven city, Mississippi] / [48982]
+key/value: [Rocklin city, California] / [56974]
+key/value: [Johns Creek city, Georgia] / [76728]
+
+TABLE[288]:
+key/value: [Champaign city, Illinois] / [81055]
+key/value: [Clearwater city, Florida] / [107685]
+key/value: [San Jose city, California] / [945942]
+
+TABLE[289]:
+key/value: [Kettering city, Ohio] / [56163]
+key/value: [El Monte city, California] / [113475]
+
+TABLE[290]:
+key/value: [Brookhaven city, Georgia] / [0]
+key/value: [Terre Haute city, Indiana] / [60785]
+key/value: [Evansville city, Indiana] / [117429]
+key/value: [Huntsville city, Alabama] / [180105]
+
+TABLE[291]:
+
+TABLE[292]:
+
+TABLE[293]:
+key/value: [Beaumont city, Texas] / [118296]
+key/value: [Montgomery city, Alabama] / [205764]
+
+TABLE[294]:
+key/value: [Mount Prospect village, Illinois] / [54167]
+key/value: [Weston city, Florida] / [65333]
+
+TABLE[295]:
+
+TABLE[296]:
+key/value: [Great Falls city, Montana] / [58505]
+key/value: [Davenport city, Iowa] / [99685]
+key/value: [Modesto city, California] / [201165]
+key/value: [Fremont city, California] / [214089]
+
+TABLE[297]:
+key/value: [Skokie village, Illinois] / [64784]
+key/value: [Ontario city, California] / [163924]
+
+TABLE[298]:
+key/value: [Virginia Beach city, Virginia] / [437994]
+
+TABLE[299]:
+key/value: [Victoria city, Texas] / [62592]
+key/value: [Santa Monica city, California] / [89736]
+key/value: [Albany city, New York] / [97856]
+key/value: [Norwalk city, California] / [105549]
+
+TABLE[300]:
+key/value: [San Clemente city, California] / [63522]
+key/value: [Baldwin Park city, California] / [75390]
+key/value: [Augusta-Richmond County consolidated government (balance), Georgia] / [195844]
+key/value: [Baltimore city, Maryland] / [620961]
+
+TABLE[301]:
+key/value: [Casper city, Wyoming] / [55316]
+key/value: [Compton city, California] / [96455]
+
+TABLE[302]:
+key/value: [North Miami city, Florida] / [58786]
+key/value: [St. Joseph city, Missouri] / [76780]
+
+TABLE[303]:
+
+TABLE[304]:
+key/value: [Plantation city, Florida] / [84955]
+
+TABLE[305]:
+key/value: [Turlock city, California] / [68549]
+key/value: [Garden Grove city, California] / [170883]
+
+TABLE[306]:
+key/value: [Grand Prairie city, Texas] / [175396]
+
+TABLE[307]:
+
+TABLE[308]:
+key/value: [Council Bluffs city, Iowa] / [62230]
+key/value: [Franklin city, Tennessee] / [62487]
+key/value: [Fort Lauderdale city, Florida] / [165521]
+key/value: [Urban Honolulu CDP, Hawaii] / [337256]
+
+TABLE[309]:
+key/value: [Summerville town, South Carolina] / [43392]
+key/value: [Longview city, Texas] / [80455]
+key/value: [Wichita Falls city, Texas] / [104553]
+key/value: [Tucson city, Arizona] / [520116]
+
+TABLE[310]:
+key/value: [Springfield city, Oregon] / [59403]
+key/value: [Rancho Cucamonga city, California] / [165269]
+
+TABLE[311]:
+key/value: [Port Orange city, Florida] / [56048]
+key/value: [Mesquite city, Texas] / [139824]
+
+TABLE[312]:
+key/value: [St. Peters city, Missouri] / [52575]
+key/value: [Rockville city, Maryland] / [61209]
+
+TABLE[313]:
+key/value: [Lynwood city, California] / [69772]
+
+TABLE[314]:
+key/value: [Jonesboro city, Arkansas] / [67263]
+
+TABLE[315]:
+key/value: [Methuen Town city, Massachusetts] / [47255]
+key/value: [Lexington-Fayette urban county, Kentucky] / [295803]
+
+TABLE[316]:
+key/value: [Lynchburg city, Virginia] / [75568]
+
+TABLE[317]:
+key/value: [Stonecrest city, Georgia] / [0]
+
+TABLE[318]:
+
+TABLE[319]:
+key/value: [Green Bay city, Wisconsin] / [104057]
+key/value: [North Charleston city, South Carolina] / [97471]
+key/value: [Scottsdale city, Arizona] / [217385]
+
+TABLE[320]:
+key/value: [Queen Creek town, Arizona] / [26361]
+key/value: [Redmond city, Washington] / [54144]
+
+TABLE[321]:
+key/value: [Orland Park village, Illinois] / [56767]
+key/value: [Bartlett city, Tennessee] / [54613]
+key/value: [Providence city, Rhode Island] / [178042]
+
+TABLE[322]:
+key/value: [West New York town, New Jersey] / [49708]
+key/value: [Vineland city, New Jersey] / [60724]
+key/value: [Walnut Creek city, California] / [64173]
+
+TABLE[323]:
+
+TABLE[324]:
+key/value: [Schaumburg village, Illinois] / [74227]
+
+TABLE[325]:
+
+TABLE[326]:
+key/value: [Apex town, North Carolina] / [37476]
+key/value: [Sioux City city, Iowa] / [82684]
+key/value: [New Braunfels city, Texas] / [57740]
+
+TABLE[327]:
+key/value: [Nampa city, Idaho] / [81557]
+key/value: [Cary town, North Carolina] / [135234]
+
+TABLE[328]:
+key/value: [Spokane city, Washington] / [208916]
+
+TABLE[329]:
+key/value: [Fort Smith city, Arkansas] / [86209]
+key/value: [Seattle city, Washington] / [608660]
+
+TABLE[330]:
+key/value: [Redwood City city, California] / [76815]
+
+TABLE[331]:
+key/value: [Pflugerville city, Texas] / [46936]
+key/value: [Waukesha city, Wisconsin] / [70718]
+key/value: [Apple Valley town, California] / [69135]
+key/value: [Bethlehem city, Pennsylvania] / [74982]
+
+TABLE[332]:
+key/value: [Decatur city, Alabama] / [55683]
+
+TABLE[333]:
+key/value: [Chicopee city, Massachusetts] / [55298]
+key/value: [Columbia city, South Carolina] / [129272]
+
+TABLE[334]:
+key/value: [La Crosse city, Wisconsin] / [51320]
+key/value: [Grand Junction city, Colorado] / [58566]
+key/value: [Huntington Beach city, California] / [189992]
+key/value: [Washington city, District of Columbia] / [601723]
+
+TABLE[335]:
+key/value: [Madison city, Alabama] / [42938]
+key/value: [West Des Moines city, Iowa] / [56609]
+key/value: [Gastonia city, North Carolina] / [71741]
+
+TABLE[336]:
+key/value: [Victorville city, California] / [115903]
+
+TABLE[337]:
+
+TABLE[338]:
+key/value: [Olympia city, Washington] / [46478]
+key/value: [Hialeah city, Florida] / [224669]
+
+TABLE[339]:
+
+TABLE[340]:
+
+TABLE[341]:
+key/value: [Watsonville city, California] / [51199]
+key/value: [Grand Forks city, North Dakota] / [52838]
+key/value: [Porterville city, California] / [54165]
+key/value: [Appleton city, Wisconsin] / [72623]
+
+TABLE[342]:
+key/value: [Tinley Park village, Illinois] / [56703]
+key/value: [Everett city, Washington] / [103019]
+key/value: [Bridgeport city, Connecticut] / [144229]
+
+TABLE[343]:
+key/value: [Lake Havasu City city, Arizona] / [52527]
+key/value: [New Britain city, Connecticut] / [73206]
+
+TABLE[344]:
+key/value: [Bend city, Oregon] / [76639]
+key/value: [Reno city, Nevada] / [225221]
+
+TABLE[345]:
+key/value: [Rock Hill city, South Carolina] / [66154]
+
+TABLE[346]:
+key/value: [Lancaster city, Pennsylvania] / [59322]
+
+TABLE[347]:
+key/value: [Hoffman Estates village, Illinois] / [51895]
+
+TABLE[348]:
+
+TABLE[349]:
+key/value: [Hammond city, Indiana] / [80830]
+key/value: [Napa city, California] / [76915]
+key/value: [Paterson city, New Jersey] / [146199]
+
+TABLE[350]:
+key/value: [Woodbury city, Minnesota] / [61961]
+key/value: [Lawrence city, Massachusetts] / [76377]
+key/value: [Lynn city, Massachusetts] / [90329]
+
+TABLE[351]:
+key/value: [Tamarac city, Florida] / [60427]
+
+TABLE[352]:
+
+TABLE[353]:
+key/value: [Owensboro city, Kentucky] / [57265]
+
+TABLE[354]:
+key/value: [Westminster city, California] / [89701]
+
+TABLE[355]:
+
+TABLE[356]:
+key/value: [Collierville town, Tennessee] / [43965]
+key/value: [Elkhart city, Indiana] / [50949]
+
+TABLE[357]:
+key/value: [Lodi city, California] / [62134]
+key/value: [Plymouth city, Minnesota] / [70576]
+key/value: [Alhambra city, California] / [83089]
+
+TABLE[358]:
+key/value: [Allen city, Texas] / [84246]
+key/value: [Macon-Bibb County, Georgia] / [0]
+
+TABLE[359]:
+key/value: [Margate city, Florida] / [53284]
+key/value: [Canton city, Ohio] / [73007]
+key/value: [Arvada city, Colorado] / [106433]
+
+TABLE[360]:
+key/value: [Edmond city, Oklahoma] / [81405]
+key/value: [Atlanta city, Georgia] / [420003]
+
+TABLE[361]:
+key/value: [Lorain city, Ohio] / [64097]
+key/value: [Carlsbad city, California] / [105328]
+key/value: [Glendale city, California] / [191719]
+
+TABLE[362]:
+key/value: [Elyria city, Ohio] / [54533]
+key/value: [Delray Beach city, Florida] / [60522]
+key/value: [Pasadena city, California] / [137122]
+key/value: [Murfreesboro city, Tennessee] / [108755]
+key/value: [Las Vegas city, Nevada] / [583756]
+
+TABLE[363]:
+key/value: [Ankeny city, Iowa] / [45582]
+key/value: [Toledo city, Ohio] / [287208]
+
+TABLE[364]:
+key/value: [Newark city, Ohio] / [47573]
+key/value: [Highland city, California] / [53104]
+key/value: [Palm Bay city, Florida] / [103190]
+
+TABLE[365]:
+key/value: [Pocatello city, Idaho] / [54255]
+key/value: [Deltona city, Florida] / [85182]
+key/value: [Fishers city, Indiana] / [76794]
+key/value: [Palmdale city, California] / [152750]
+
+TABLE[366]:
+key/value: [Jacksonville city, North Carolina] / [70145]
+key/value: [Missouri City city, Texas] / [67358]
+
+TABLE[367]:
+key/value: [Eagan city, Minnesota] / [64206]
+key/value: [Brockton city, Massachusetts] / [93810]
+key/value: [Miramar city, Florida] / [122041]
+
+TABLE[368]:
+
+TABLE[369]:
+key/value: [Brooklyn Park city, Minnesota] / [75781]
+key/value: [Allentown city, Pennsylvania] / [118032]
+
+TABLE[370]:
+
+TABLE[371]:
+key/value: [Sanford city, Florida] / [53570]
+key/value: [Dayton city, Ohio] / [141527]
+
+TABLE[372]:
+key/value: [Edina city, Minnesota] / [47941]
+key/value: [Warren city, Michigan] / [134056]
+key/value: [Plano city, Texas] / [259841]
+key/value: [Cincinnati city, Ohio] / [296943]
+key/value: [Santa Ana city, California] / [324528]
+
+TABLE[373]:
+key/value: [Coral Gables city, Florida] / [46780]
+key/value: [Boise City city, Idaho] / [205671]
+key/value: [Orlando city, Florida] / [238300]
+
+TABLE[374]:
+key/value: [Bryan city, Texas] / [76201]
+key/value: [Sioux Falls city, South Dakota] / [153888]
+
+TABLE[375]:
+key/value: [Pharr city, Texas] / [70400]
+key/value: [Cedar Park city, Texas] / [48937]
+key/value: [Lawrence city, Kansas] / [87643]
+key/value: [Fayetteville city, North Carolina] / [200564]
+key/value: [San Diego city, California] / [1307402]
+
+TABLE[376]:
+key/value: [Chesapeake city, Virginia] / [222209]
+
+TABLE[377]:
+key/value: [Glendora city, California] / [50073]
+key/value: [St. Clair Shores city, Michigan] / [59715]
+
+TABLE[378]:
+key/value: [Redlands city, California] / [68747]
+
+TABLE[379]:
+key/value: [Redondo Beach city, California] / [66748]
+
+TABLE[380]:
+key/value: [Norman city, Oklahoma] / [110925]
+key/value: [Denver city, Colorado] / [600158]
+
+TABLE[381]:
+key/value: [Rosemead city, California] / [53764]
+key/value: [Mansfield city, Texas] / [56368]
+key/value: [Temecula city, California] / [100097]
+key/value: [Tallahassee city, Florida] / [181376]
+
+TABLE[382]:
+key/value: [Twin Falls city, Idaho] / [44125]
+key/value: [Layton city, Utah] / [67311]
+key/value: [Hesperia city, California] / [90173]
+
+TABLE[383]:
+key/value: [Santa Barbara city, California] / [88410]
+key/value: [Pueblo city, Colorado] / [106595]
+
+TABLE[384]:
+key/value: [Taylor city, Michigan] / [63131]
+key/value: [Berkeley city, California] / [112580]
+
+TABLE[385]:
+key/value: [Buckeye city, Arizona] / [50876]
+key/value: [Richmond city, California] / [103701]
+
+TABLE[386]:
+key/value: [Eastvale city, California] / [0]
+key/value: [Harlingen city, Texas] / [64849]
+key/value: [San Angelo city, Texas] / [93200]
+key/value: [Aurora city, Colorado] / [325078]
+
+TABLE[387]:
+key/value: [New Brunswick city, New Jersey] / [55181]
+key/value: [Lakewood city, California] / [80048]
+
+TABLE[388]:
+key/value: [Wylie city, Texas] / [41427]
+
+TABLE[389]:
+key/value: [Woodland city, California] / [55468]
+key/value: [San Mateo city, California] / [97207]
+
+TABLE[390]:
+key/value: [Petaluma city, California] / [57941]
+key/value: [Lawton city, Oklahoma] / [96867]
+
+TABLE[391]:
+key/value: [St. Charles city, Missouri] / [65794]
+key/value: [Alexandria city, Virginia] / [139966]
+
+TABLE[392]:
+key/value: [Beaumont city, California] / [36877]
+key/value: [Noblesville city, Indiana] / [51969]
+key/value: [Peoria city, Illinois] / [115007]
+
+TABLE[393]:
+key/value: [Palo Alto city, California] / [64403]
+key/value: [Centennial city, Colorado] / [100377]
+key/value: [Gainesville city, Florida] / [124354]
+
+TABLE[394]:
+key/value: [Conway city, Arkansas] / [58908]
+key/value: [Tyler city, Texas] / [96900]
+
+TABLE[395]:
+key/value: [Grapevine city, Texas] / [46334]
+key/value: [Rogers city, Arkansas] / [55964]
+key/value: [Broomfield city, Colorado] / [55889]
+key/value: [Roswell city, Georgia] / [88346]
+key/value: [Sugar Land city, Texas] / [78817]
+key/value: [Torrance city, California] / [145438]
+
+TABLE[396]:
+key/value: [Oak Park village, Illinois] / [51878]
+key/value: [Parker town, Colorado] / [45297]
+key/value: [Southfield city, Michigan] / [71739]
+key/value: [San Ramon city, California] / [72148]
+key/value: [Cicero town, Illinois] / [83891]
+key/value: [Elk Grove city, California] / [153015]
+
+TABLE[397]:
+
+TABLE[398]:
+
+TABLE[399]:
+key/value: [Sunrise city, Florida] / [84439]
+key/value: [Joliet city, Illinois] / [147433]
+
+========================
+
+***** HASH TABLE 3 *****
+
+========================
+TABLE[0]:
+key/value: [Pinellas Park city, Florida] / [49079]
+key/value: [Pico Rivera city, California] / [62942]
+key/value: [Pittsburg city, California] / [63264]
+key/value: [Pittsburgh city, Pennsylvania] / [305704]
+
+TABLE[1]:
+
+TABLE[2]:
+key/value: [Battle Creek city, Michigan] / [52347]
+key/value: [Bartlett city, Tennessee] / [54613]
+key/value: [Bayonne city, New Jersey] / [63024]
+key/value: [Baldwin Park city, California] / [75390]
+key/value: [Baytown city, Texas] / [71802]
+key/value: [Baton Rouge city, Louisiana] / [229493]
+key/value: [Bakersfield city, California] / [347483]
+key/value: [Baltimore city, Maryland] / [620961]
+
+TABLE[3]:
+
+TABLE[4]:
+
+TABLE[5]:
+key/value: [Auburn city, Alabama] / [53380]
+key/value: [Auburn city, Washington] / [70180]
+key/value: [Aurora city, Illinois] / [197899]
+key/value: [Augusta-Richmond County consolidated government (balance), Georgia] / [195844]
+key/value: [Aurora city, Colorado] / [325078]
+key/value: [Austin city, Texas] / [790390]
+
+TABLE[6]:
+
+TABLE[7]:
+
+TABLE[8]:
+
+TABLE[9]:
+
+TABLE[10]:
+
+TABLE[11]:
+
+TABLE[12]:
+
+TABLE[13]:
+key/value: [Yucaipa city, California] / [51367]
+key/value: [Southaven city, Mississippi] / [48982]
+key/value: [Yuba City city, California] / [64925]
+key/value: [South San Francisco city, California] / [63632]
+key/value: [Southfield city, Michigan] / [71739]
+key/value: [South Jordan city, Utah] / [50418]
+key/value: [Somerville city, Massachusetts] / [75754]
+key/value: [South Gate city, California] / [94396]
+key/value: [Yuma city, Arizona] / [93064]
+key/value: [South Fulton city, Georgia] / [0]
+key/value: [South Bend city, Indiana] / [101168]
+
+TABLE[14]:
+
+TABLE[15]:
+
+TABLE[16]:
+
+TABLE[17]:
+
+TABLE[18]:
+
+TABLE[19]:
+
+TABLE[20]:
+key/value: [Tigard city, Oregon] / [48035]
+key/value: [Tinley Park village, Illinois] / [56703]
+
+TABLE[21]:
+
+TABLE[22]:
+
+TABLE[23]:
+key/value: [McAllen city, Texas] / [129877]
+key/value: [McKinney city, Texas] / [131117]
+
+TABLE[24]:
+key/value: [Huntington Park city, California] / [58114]
+key/value: [Huntersville town, North Carolina] / [46773]
+key/value: [Huntington Beach city, California] / [189992]
+key/value: [Huntsville city, Alabama] / [180105]
+
+TABLE[25]:
+
+TABLE[26]:
+
+TABLE[27]:
+
+TABLE[28]:
+key/value: [Stillwater city, Oklahoma] / [45688]
+key/value: [St. Cloud city, Florida] / [35183]
+key/value: [Stonecrest city, Georgia] / [0]
+key/value: [St. Peters city, Missouri] / [52575]
+key/value: [St. Clair Shores city, Michigan] / [59715]
+key/value: [St. Cloud city, Minnesota] / [65842]
+key/value: [St. Charles city, Missouri] / [65794]
+key/value: [St. Joseph city, Missouri] / [76780]
+key/value: [St. George city, Utah] / [72897]
+key/value: [Stamford city, Connecticut] / [122643]
+key/value: [Sterling Heights city, Michigan] / [129699]
+key/value: [St. Petersburg city, Florida] / [244769]
+key/value: [St. Louis city, Missouri] / [319294]
+key/value: [St. Paul city, Minnesota] / [285068]
+key/value: [Stockton city, California] / [291707]
+
+TABLE[29]:
+
+TABLE[30]:
+key/value: [Indio city, California] / [76036]
+key/value: [Inglewood city, California] / [109673]
+key/value: [Independence city, Missouri] / [116830]
+key/value: [Indianapolis city (balance), Indiana] / [820445]
+
+TABLE[31]:
+
+TABLE[32]:
+
+TABLE[33]:
+
+TABLE[34]:
+
+TABLE[35]:
+
+TABLE[36]:
+key/value: [Logan city, Utah] / [48174]
+key/value: [Lorain city, Ohio] / [64097]
+key/value: [Lodi city, California] / [62134]
+key/value: [Loveland city, Colorado] / [66859]
+key/value: [Longview city, Texas] / [80455]
+key/value: [Clifton city, New Jersey] / [84136]
+key/value: [Longmont city, Colorado] / [86270]
+key/value: [Lowell city, Massachusetts] / [106519]
+key/value: [Clovis city, California] / [95631]
+key/value: [Clearwater city, Florida] / [107685]
+key/value: [Clarksville city, Tennessee] / [132929]
+key/value: [Cleveland city, Ohio] / [396815]
+key/value: [Long Beach city, California] / [462257]
+key/value: [Louisville/Jefferson County metro government (balance), Kentucky] / [597337]
+key/value: [Los Angeles city, California] / [3792621]
+
+TABLE[37]:
+
+TABLE[38]:
+key/value: [Cranston city, Rhode Island] / [80387]
+
+TABLE[39]:
+key/value: [Watsonville city, California] / [51199]
+key/value: [Waltham city, Massachusetts] / [60632]
+key/value: [Waterloo city, Iowa] / [68406]
+key/value: [Walnut Creek city, California] / [64173]
+key/value: [Waukesha city, Wisconsin] / [70718]
+key/value: [Warner Robins city, Georgia] / [66588]
+key/value: [Warwick city, Rhode Island] / [82672]
+key/value: [Waukegan city, Illinois] / [89078]
+key/value: [Waterbury city, Connecticut] / [110366]
+key/value: [Warren city, Michigan] / [134056]
+key/value: [Waco city, Texas] / [124805]
+key/value: [Washington city, District of Columbia] / [601723]
+
+TABLE[40]:
+
+TABLE[41]:
+
+TABLE[42]:
+
+TABLE[43]:
+key/value: [Syracuse city, New York] / [145170]
+
+TABLE[44]:
+
+TABLE[45]:
+
+TABLE[46]:
+
+TABLE[47]:
+
+TABLE[48]:
+
+TABLE[49]:
+
+TABLE[50]:
+
+TABLE[51]:
+key/value: [Saginaw city, Michigan] / [51508]
+key/value: [Santee city, California] / [53413]
+key/value: [Sarasota city, Florida] / [51917]
+key/value: [San Rafael city, California] / [57713]
+key/value: [Sanford city, Florida] / [53570]
+key/value: [San Clemente city, California] / [63522]
+key/value: [Santa Cruz city, California] / [59946]
+key/value: [San Marcos city, Texas] / [44894]
+key/value: [Sammamish city, Washington] / [45780]
+key/value: [San Ramon city, California] / [72148]
+key/value: [Santa Fe city, New Mexico] / [67947]
+key/value: [San Leandro city, California] / [84950]
+key/value: [Santa Monica city, California] / [89736]
+key/value: [Santa Barbara city, California] / [88410]
+key/value: [Sandy city, Utah] / [87461]
+key/value: [San Marcos city, California] / [83781]
+key/value: [San Angelo city, Texas] / [93200]
+key/value: [San Mateo city, California] / [97207]
+key/value: [Santa Maria city, California] / [99553]
+key/value: [San Buenaventura (Ventura) city, California] / [106433]
+key/value: [Sandy Springs city, Georgia] / [93853]
+key/value: [Santa Clara city, California] / [116468]
+key/value: [Savannah city, Georgia] / [136286]
+key/value: [Salinas city, California] / [150441]
+key/value: [Salem city, Oregon] / [154637]
+key/value: [Santa Rosa city, California] / [167815]
+key/value: [Salt Lake City city, Utah] / [186440]
+key/value: [Santa Clarita city, California] / [176320]
+key/value: [San Bernardino city, California] / [209924]
+key/value: [Santa Ana city, California] / [324528]
+key/value: [Sacramento city, California] / [466488]
+key/value: [San Francisco city, California] / [805235]
+key/value: [San Jose city, California] / [945942]
+key/value: [San Diego city, California] / [1307402]
+key/value: [San Antonio city, Texas] / [1327407]
+
+TABLE[52]:
+
+TABLE[53]:
+key/value: [Oklahoma City city, Oklahoma] / [579999]
+
+TABLE[54]:
+
+TABLE[55]:
+
+TABLE[56]:
+
+TABLE[57]:
+key/value: [Woodland city, California] / [55468]
+key/value: [Woodbury city, Minnesota] / [61961]
+key/value: [Worcester city, Massachusetts] / [181045]
+
+TABLE[58]:
+
+TABLE[59]:
+
+TABLE[60]:
+
+TABLE[61]:
+
+TABLE[62]:
+
+TABLE[63]:
+key/value: [Oak Park village, Illinois] / [51878]
+key/value: [Oak Lawn village, Illinois] / [56690]
+key/value: [Oakland city, California] / [390724]
+
+TABLE[64]:
+
+TABLE[65]:
+
+TABLE[66]:
+
+TABLE[67]:
+
+TABLE[68]:
+key/value: [Glendora city, California] / [50073]
+key/value: [DeSoto city, Texas] / [49047]
+key/value: [Delano city, California] / [53041]
+key/value: [Decatur city, Alabama] / [55683]
+key/value: [Dearborn Heights city, Michigan] / [57774]
+key/value: [Des Plaines city, Illinois] / [58364]
+key/value: [Delray Beach city, Florida] / [60522]
+key/value: [Decatur city, Illinois] / [76122]
+key/value: [Deerfield Beach city, Florida] / [75018]
+key/value: [Deltona city, Florida] / [85182]
+key/value: [Dearborn city, Michigan] / [98153]
+key/value: [Denton city, Texas] / [113383]
+key/value: [Glendale city, California] / [191719]
+key/value: [Des Moines city, Iowa] / [203433]
+key/value: [Glendale city, Arizona] / [226721]
+key/value: [Detroit city, Michigan] / [713777]
+key/value: [Denver city, Colorado] / [600158]
+
+TABLE[69]:
+
+TABLE[70]:
+key/value: [Avondale city, Arizona] / [76238]
+
+TABLE[71]:
+
+TABLE[72]:
+key/value: [Herriman city, Utah] / [21785]
+key/value: [Hempstead village, New York] / [53891]
+key/value: [Hendersonville city, Tennessee] / [51372]
+key/value: [Hemet city, California] / [78657]
+key/value: [Hesperia city, California] / [90173]
+key/value: [Henderson city, Nevada] / [257729]
+
+TABLE[73]:
+key/value: [Euless city, Texas] / [51277]
+key/value: [Eugene city, Oregon] / [156185]
+
+TABLE[74]:
+
+TABLE[75]:
+key/value: [Kannapolis city, North Carolina] / [42625]
+key/value: [Kalamazoo city, Michigan] / [74262]
+key/value: [Kansas City city, Kansas] / [145786]
+key/value: [Kansas City city, Missouri] / [459787]
+
+TABLE[76]:
+key/value: [Leesburg town, Virginia] / [42616]
+key/value: [Lenexa city, Kansas] / [48190]
+key/value: [Leander city, Texas] / [26521]
+key/value: [Lehi city, Utah] / [47407]
+key/value: [Lee's Summit city, Missouri] / [91364]
+key/value: [League City city, Texas] / [83560]
+key/value: [Lewisville city, Texas] / [95290]
+key/value: [Lexington-Fayette urban county, Kentucky] / [295803]
+
+TABLE[77]:
+
+TABLE[78]:
+
+TABLE[79]:
+
+TABLE[80]:
+key/value: [Perth Amboy city, New Jersey] / [50814]
+key/value: [Pensacola city, Florida] / [51923]
+key/value: [Peabody city, Massachusetts] / [51251]
+key/value: [Apopka city, Florida] / [41542]
+key/value: [Port Arthur city, Texas] / [53818]
+key/value: [Apple Valley city, Minnesota] / [49084]
+key/value: [Pocatello city, Idaho] / [54255]
+key/value: [Apex town, North Carolina] / [37476]
+key/value: [Pontiac city, Michigan] / [59515]
+key/value: [Porterville city, California] / [54165]
+key/value: [Petaluma city, California] / [57941]
+key/value: [Port Orange city, Florida] / [56048]
+key/value: [Portland city, Maine] / [66194]
+key/value: [Apple Valley town, California] / [69135]
+key/value: [Appleton city, Wisconsin] / [72623]
+key/value: [Perris city, California] / [68386]
+key/value: [Portsmouth city, Virginia] / [95535]
+key/value: [Peoria city, Illinois] / [115007]
+key/value: [Pompano Beach city, Florida] / [99845]
+key/value: [Pearland city, Texas] / [91252]
+key/value: [Pomona city, California] / [149058]
+key/value: [Pembroke Pines city, Florida] / [154750]
+key/value: [Peoria city, Arizona] / [154065]
+key/value: [Port St. Lucie city, Florida] / [164603]
+key/value: [Portland city, Oregon] / [583776]
+
+TABLE[81]:
+key/value: [Skokie village, Illinois] / [64784]
+
+TABLE[82]:
+
+TABLE[83]:
+
+TABLE[84]:
+key/value: [Texas City city, Texas] / [45099]
+key/value: [Terre Haute city, Indiana] / [60785]
+key/value: [Temple city, Texas] / [66102]
+key/value: [Temecula city, California] / [100097]
+key/value: [Tempe city, Arizona] / [161719]
+
+TABLE[85]:
+key/value: [Mishawaka city, Indiana] / [48252]
+key/value: [Milford city (balance), Connecticut] / [51271]
+key/value: [Minnetonka city, Minnesota] / [49734]
+key/value: [Midwest City city, Oklahoma] / [54371]
+key/value: [Millcreek city, Utah] / [0]
+key/value: [Missouri City city, Texas] / [67358]
+key/value: [Missoula city, Montana] / [66788]
+key/value: [Milpitas city, California] / [66790]
+key/value: [Mission city, Texas] / [77058]
+key/value: [Miami Beach city, Florida] / [87779]
+key/value: [Mission Viejo city, California] / [93305]
+key/value: [Miami Gardens city, Florida] / [107167]
+key/value: [Miramar city, Florida] / [122041]
+key/value: [Midland city, Texas] / [111147]
+key/value: [Minneapolis city, Minnesota] / [382578]
+key/value: [Miami city, Florida] / [399457]
+key/value: [Milwaukee city, Wisconsin] / [594833]
+
+TABLE[86]:
+
+TABLE[87]:
+key/value: [Galveston city, Texas] / [47743]
+key/value: [Gardena city, California] / [58829]
+key/value: [Gaithersburg city, Maryland] / [59933]
+key/value: [Gary city, Indiana] / [80294]
+key/value: [Gastonia city, North Carolina] / [71741]
+key/value: [Gainesville city, Florida] / [124354]
+key/value: [Garden Grove city, California] / [170883]
+key/value: [Garland city, Texas] / [226876]
+
+TABLE[88]:
+
+TABLE[89]:
+
+TABLE[90]:
+key/value: [Urban Honolulu CDP, Hawaii] / [337256]
+
+TABLE[91]:
+
+TABLE[92]:
+key/value: [Lubbock city, Texas] / [229573]
+
+TABLE[93]:
+
+TABLE[94]:
+key/value: [Grand Island city, Nebraska] / [48520]
+key/value: [Grapevine city, Texas] / [46334]
+key/value: [Grand Forks city, North Dakota] / [52838]
+key/value: [Great Falls city, Montana] / [58505]
+key/value: [Greenwood city, Indiana] / [49791]
+key/value: [Grand Junction city, Colorado] / [58566]
+key/value: [Greenville city, South Carolina] / [58409]
+key/value: [Greenville city, North Carolina] / [84554]
+key/value: [Green Bay city, Wisconsin] / [104057]
+key/value: [Greeley city, Colorado] / [92889]
+key/value: [Gresham city, Oregon] / [105594]
+key/value: [Grand Prairie city, Texas] / [175396]
+key/value: [Grand Rapids city, Michigan] / [188040]
+key/value: [Greensboro city, North Carolina] / [269666]
+
+TABLE[95]:
+
+TABLE[96]:
+key/value: [Springfield city, Ohio] / [60608]
+key/value: [Springfield city, Oregon] / [59403]
+key/value: [Springdale city, Arkansas] / [69797]
+key/value: [Spokane Valley city, Washington] / [89755]
+key/value: [Sparks city, Nevada] / [90264]
+key/value: [Springfield city, Illinois] / [116250]
+key/value: [Springfield city, Massachusetts] / [153060]
+key/value: [Springfield city, Missouri] / [159498]
+key/value: [Spokane city, Washington] / [208916]
+
+TABLE[97]:
+
+TABLE[98]:
+
+TABLE[99]:
+key/value: [Cathedral City city, California] / [51200]
+key/value: [Carson City, Nevada] / [55274]
+key/value: [Casper city, Wyoming] / [55316]
+key/value: [Caldwell city, Idaho] / [46237]
+key/value: [Casa Grande city, Arizona] / [48571]
+key/value: [Castle Rock town, Colorado] / [48231]
+key/value: [Camarillo city, California] / [65201]
+key/value: [Canton city, Ohio] / [73007]
+key/value: [Camden city, New Jersey] / [77344]
+key/value: [Carson city, California] / [91714]
+key/value: [Carmel city, Indiana] / [79191]
+key/value: [Carlsbad city, California] / [105328]
+key/value: [Cambridge city, Massachusetts] / [105162]
+key/value: [Carrollton city, Texas] / [119097]
+key/value: [Cary town, North Carolina] / [135234]
+key/value: [Cape Coral city, Florida] / [154305]
+
+TABLE[100]:
+key/value: [Edina city, Minnesota] / [47941]
+key/value: [Idaho Falls city, Idaho] / [56813]
+key/value: [Eden Prairie city, Minnesota] / [60797]
+key/value: [Edmond city, Oklahoma] / [81405]
+key/value: [Edinburg city, Texas] / [77100]
+
+TABLE[101]:
+
+TABLE[102]:
+
+TABLE[103]:
+key/value: [Iowa City city, Iowa] / [67862]
+
+TABLE[104]:
+
+TABLE[105]:
+
+TABLE[106]:
+
+TABLE[107]:
+
+TABLE[108]:
+
+TABLE[109]:
+
+TABLE[110]:
+
+TABLE[111]:
+key/value: [Summerville town, South Carolina] / [43392]
+key/value: [Suffolk city, Virginia] / [84585]
+key/value: [Sunrise city, Florida] / [84439]
+key/value: [Sugar Land city, Texas] / [78817]
+key/value: [Surprise city, Arizona] / [117517]
+key/value: [Sunnyvale city, California] / [140081]
+
+TABLE[112]:
+
+TABLE[113]:
+
+TABLE[114]:
+
+TABLE[115]:
+
+TABLE[116]:
+
+TABLE[117]:
+
+TABLE[118]:
+
+TABLE[119]:
+
+TABLE[120]:
+
+TABLE[121]:
+
+TABLE[122]:
+key/value: [Burien city, Washington] / [33313]
+key/value: [Burlington city, North Carolina] / [49963]
+key/value: [Burnsville city, Minnesota] / [60306]
+key/value: [Buckeye city, Arizona] / [50876]
+key/value: [Buena Park city, California] / [80530]
+key/value: [Burbank city, California] / [103340]
+key/value: [Overland Park city, Kansas] / [173372]
+key/value: [Buffalo city, New York] / [261310]
+
+TABLE[123]:
+
+TABLE[124]:
+key/value: [Topeka city, Kansas] / [127473]
+key/value: [Torrance city, California] / [145438]
+key/value: [Toledo city, Ohio] / [287208]
+
+TABLE[125]:
+
+TABLE[126]:
+key/value: [Bowie city, Maryland] / [54727]
+key/value: [Bonita Springs city, Florida] / [43914]
+key/value: [Bossier City city, Louisiana] / [61315]
+key/value: [Bowling Green city, Kentucky] / [58067]
+key/value: [Bolingbrook village, Illinois] / [73366]
+key/value: [Boynton Beach city, Florida] / [68217]
+key/value: [Boca Raton city, Florida] / [84392]
+key/value: [Boulder city, Colorado] / [97385]
+key/value: [Boise City city, Idaho] / [205671]
+key/value: [Boston city, Massachusetts] / [617594]
+
+TABLE[127]:
+key/value: [Wylie city, Texas] / [41427]
+key/value: [Wyoming city, Michigan] / [72125]
+
+TABLE[128]:
+
+TABLE[129]:
+
+TABLE[130]:
+key/value: [Bismarck city, North Dakota] / [61272]
+key/value: [Billings city, Montana] / [104170]
+key/value: [Birmingham city, Alabama] / [212237]
+
+TABLE[131]:
+
+TABLE[132]:
+key/value: [Olympia city, Washington] / [46478]
+key/value: [Olathe city, Kansas] / [125872]
+
+TABLE[133]:
+
+TABLE[134]:
+
+TABLE[135]:
+
+TABLE[136]:
+
+TABLE[137]:
+key/value: [Ogden city, Utah] / [82825]
+
+TABLE[138]:
+
+TABLE[139]:
+
+TABLE[140]:
+
+TABLE[141]:
+
+TABLE[142]:
+key/value: [Evanston city, Illinois] / [74486]
+key/value: [Everett city, Washington] / [103019]
+key/value: [Evansville city, Indiana] / [117429]
+
+TABLE[143]:
+
+TABLE[144]:
+
+TABLE[145]:
+
+TABLE[146]:
+
+TABLE[147]:
+key/value: [Mount Prospect village, Illinois] / [54167]
+key/value: [Monterey Park city, California] / [60269]
+key/value: [Montebello city, California] / [62500]
+key/value: [Moore city, Oklahoma] / [55081]
+key/value: [Mount Vernon city, New York] / [67292]
+key/value: [Mountain View city, California] / [74066]
+key/value: [Mount Pleasant town, South Carolina] / [67843]
+key/value: [Mobile city, Alabama] / [195111]
+key/value: [Montgomery city, Alabama] / [205764]
+key/value: [Moreno Valley city, California] / [193365]
+key/value: [Modesto city, California] / [201165]
+
+TABLE[148]:
+key/value: [Taunton city, Massachusetts] / [55874]
+key/value: [Taylorsville city, Utah] / [58652]
+key/value: [Taylor city, Michigan] / [63131]
+key/value: [Tamarac city, Florida] / [60427]
+key/value: [Tallahassee city, Florida] / [181376]
+key/value: [Tacoma city, Washington] / [198397]
+key/value: [Tampa city, Florida] / [335709]
+
+TABLE[149]:
+
+TABLE[150]:
+key/value: [Union City city, New Jersey] / [66455]
+key/value: [Union City city, California] / [69516]
+key/value: [Fishers city, Indiana] / [76794]
+
+TABLE[151]:
+
+TABLE[152]:
+
+TABLE[153]:
+
+TABLE[154]:
+
+TABLE[155]:
+key/value: [Akron city, Ohio] / [199110]
+
+TABLE[156]:
+
+TABLE[157]:
+
+TABLE[158]:
+
+TABLE[159]:
+
+TABLE[160]:
+key/value: [Palm Desert city, California] / [48445]
+key/value: [Paramount city, California] / [54098]
+key/value: [Palm Beach Gardens city, Florida] / [48452]
+key/value: [Parker town, Colorado] / [45297]
+key/value: [Palo Alto city, California] / [64403]
+key/value: [Pflugerville city, Texas] / [46936]
+key/value: [Palatine village, Illinois] / [68557]
+key/value: [Passaic city, New Jersey] / [69781]
+key/value: [Pawtucket city, Rhode Island] / [71148]
+key/value: [Pasco city, Washington] / [59781]
+key/value: [Parma city, Ohio] / [81601]
+key/value: [Palm Coast city, Florida] / [75180]
+key/value: [Pueblo city, Colorado] / [106595]
+key/value: [Palm Bay city, Florida] / [103190]
+key/value: [Pasadena city, California] / [137122]
+key/value: [Paterson city, New Jersey] / [146199]
+key/value: [Pasadena city, Texas] / [149043]
+key/value: [Palmdale city, California] / [152750]
+
+TABLE[161]:
+
+TABLE[162]:
+
+TABLE[163]:
+
+TABLE[164]:
+key/value: [Tyler city, Texas] / [96900]
+
+TABLE[165]:
+
+TABLE[166]:
+
+TABLE[167]:
+
+TABLE[168]:
+key/value: [Charleston city, West Virginia] / [51400]
+key/value: [Chicopee city, Massachusetts] / [55298]
+key/value: [Chapel Hill town, North Carolina] / [57233]
+key/value: [Cheyenne city, Wyoming] / [59466]
+key/value: [Chino Hills city, California] / [74799]
+key/value: [Champaign city, Illinois] / [81055]
+key/value: [Chino city, California] / [77983]
+key/value: [Chico city, California] / [86187]
+key/value: [Charleston city, South Carolina] / [120083]
+key/value: [Chattanooga city, Tennessee] / [167674]
+key/value: [Chesapeake city, Virginia] / [222209]
+key/value: [Chandler city, Arizona] / [236123]
+key/value: [Chula Vista city, California] / [243916]
+key/value: [Charlotte city, North Carolina] / [731424]
+key/value: [Chicago city, Illinois] / [2695598]
+
+TABLE[169]:
+
+TABLE[170]:
+key/value: [Fountain Valley city, California] / [55313]
+key/value: [Folsom city, California] / [72203]
+key/value: [Fort Myers city, Florida] / [62298]
+key/value: [Fort Smith city, Arkansas] / [86209]
+key/value: [Fort Collins city, Colorado] / [143986]
+key/value: [Fort Lauderdale city, Florida] / [165521]
+key/value: [Fontana city, California] / [196069]
+key/value: [Fort Wayne city, Indiana] / [253691]
+key/value: [Fort Worth city, Texas] / [741206]
+
+TABLE[171]:
+
+TABLE[172]:
+key/value: [Lakewood city, Ohio] / [52131]
+key/value: [La Crosse city, Wisconsin] / [51320]
+key/value: [Lacey city, Washington] / [42393]
+key/value: [Lake Havasu City city, Arizona] / [52527]
+key/value: [La Mesa city, California] / [57065]
+key/value: [Lancaster city, Pennsylvania] / [59322]
+key/value: [La Habra city, California] / [60239]
+key/value: [Lakewood city, Washington] / [58163]
+key/value: [Laguna Niguel city, California] / [62979]
+key/value: [Lakeville city, Minnesota] / [55954]
+key/value: [Lake Elsinore city, California] / [51821]
+key/value: [Lafayette city, Indiana] / [67140]
+key/value: [Lauderhill city, Florida] / [66887]
+key/value: [Layton city, Utah] / [67311]
+key/value: [Lake Charles city, Louisiana] / [71993]
+key/value: [Lakewood city, California] / [80048]
+key/value: [Lawrence city, Massachusetts] / [76377]
+key/value: [Largo city, Florida] / [77648]
+key/value: [Lake Forest city, California] / [77264]
+key/value: [Lawton city, Oklahoma] / [96867]
+key/value: [Lawrence city, Kansas] / [87643]
+key/value: [Las Cruces city, New Mexico] / [97618]
+key/value: [Lakeland city, Florida] / [97422]
+key/value: [Lansing city, Michigan] / [114297]
+key/value: [Lafayette city, Louisiana] / [120623]
+key/value: [Lancaster city, California] / [156633]
+key/value: [Lakewood city, Colorado] / [142980]
+key/value: [Laredo city, Texas] / [236091]
+key/value: [Las Vegas city, Nevada] / [583756]
+
+TABLE[173]:
+
+TABLE[174]:
+
+TABLE[175]:
+
+TABLE[176]:
+
+TABLE[177]:
+key/value: [Methuen Town city, Massachusetts] / [47255]
+key/value: [Medford city, Massachusetts] / [56173]
+key/value: [Meriden city, Connecticut] / [60868]
+key/value: [Melbourne city, Florida] / [76068]
+key/value: [Medford city, Oregon] / [74907]
+key/value: [Merced city, California] / [78958]
+key/value: [Menifee city, California] / [77519]
+key/value: [Meridian city, Idaho] / [75092]
+key/value: [Mesquite city, Texas] / [139824]
+key/value: [Mesa city, Arizona] / [439041]
+key/value: [Memphis city, Tennessee] / [646889]
+
+TABLE[178]:
+
+TABLE[179]:
+
+TABLE[180]:
+
+TABLE[181]:
+
+TABLE[182]:
+
+TABLE[183]:
+
+TABLE[184]:
+key/value: [Harrisonburg city, Virginia] / [48914]
+key/value: [Hanford city, California] / [53967]
+key/value: [Hamilton city, Ohio] / [62477]
+key/value: [Haverhill city, Massachusetts] / [60879]
+key/value: [Harlingen city, Texas] / [64849]
+key/value: [Hammond city, Indiana] / [80830]
+key/value: [Hawthorne city, California] / [84293]
+key/value: [Hartford city, Connecticut] / [124775]
+key/value: [Hampton city, Virginia] / [137436]
+key/value: [Hayward city, California] / [144186]
+
+TABLE[185]:
+
+TABLE[186]:
+
+TABLE[187]:
+
+TABLE[188]:
+
+TABLE[189]:
+
+TABLE[190]:
+key/value: [Niagara Falls city, New York] / [50193]
+key/value: [Fullerton city, California] / [135161]
+
+TABLE[191]:
+
+TABLE[192]:
+
+TABLE[193]:
+
+TABLE[194]:
+
+TABLE[195]:
+
+TABLE[196]:
+key/value: [Daytona Beach city, Florida] / [61005]
+key/value: [Davis city, California] / [65622]
+key/value: [Danbury city, Connecticut] / [80893]
+key/value: [Davenport city, Iowa] / [99685]
+key/value: [Daly City city, California] / [101123]
+key/value: [Davie town, Florida] / [91992]
+key/value: [Dayton city, Ohio] / [141527]
+key/value: [Dallas city, Texas] / [1197816]
+
+TABLE[197]:
+
+TABLE[198]:
+
+TABLE[199]:
+
+TABLE[200]:
+
+TABLE[201]:
+key/value: [Owensboro city, Kentucky] / [57265]
+
+TABLE[202]:
+
+TABLE[203]:
+
+TABLE[204]:
+
+TABLE[205]:
+
+TABLE[206]:
+key/value: [Orland Park village, Illinois] / [56767]
+key/value: [Orem city, Utah] / [88328]
+key/value: [Orange city, California] / [136416]
+key/value: [Orlando city, Florida] / [238300]
+
+TABLE[207]:
+
+TABLE[208]:
+
+TABLE[209]:
+key/value: [Muncie city, Indiana] / [70085]
+key/value: [Murrieta city, California] / [103466]
+key/value: [Murfreesboro city, Tennessee] / [108755]
+
+TABLE[210]:
+key/value: [Arcadia city, California] / [56364]
+key/value: [Richland city, Washington] / [48058]
+key/value: [Arlington Heights village, Illinois] / [75101]
+key/value: [Rio Rancho city, New Mexico] / [87521]
+key/value: [Rialto city, California] / [99171]
+key/value: [Richmond city, California] / [103701]
+key/value: [Arvada city, Colorado] / [106433]
+key/value: [Richardson city, Texas] / [99223]
+key/value: [Richmond city, Virginia] / [204214]
+key/value: [Riverside city, California] / [303871]
+key/value: [Arlington city, Texas] / [365438]
+
+TABLE[211]:
+key/value: [Omaha city, Nebraska] / [408958]
+
+TABLE[212]:
+
+TABLE[213]:
+
+TABLE[214]:
+key/value: [Joplin city, Missouri] / [50150]
+key/value: [Johnson City city, Tennessee] / [63152]
+key/value: [Jonesboro city, Arkansas] / [67263]
+key/value: [Johns Creek city, Georgia] / [76728]
+key/value: [Joliet city, Illinois] / [147433]
+
+TABLE[215]:
+
+TABLE[216]:
+
+TABLE[217]:
+key/value: [Schenectady city, New York] / [66135]
+key/value: [Schaumburg village, Illinois] / [74227]
+key/value: [Scranton city, Pennsylvania] / [76089]
+key/value: [Scottsdale city, Arizona] / [217385]
+
+TABLE[218]:
+
+TABLE[219]:
+
+TABLE[220]:
+key/value: [Aliso Viejo city, California] / [47823]
+key/value: [Albany city, Oregon] / [50158]
+key/value: [Alpharetta city, Georgia] / [57551]
+key/value: [Albany city, Georgia] / [77434]
+key/value: [Alameda city, California] / [73812]
+key/value: [Alhambra city, California] / [83089]
+key/value: [Albany city, New York] / [97856]
+key/value: [Allen city, Texas] / [84246]
+key/value: [Allentown city, Pennsylvania] / [118032]
+key/value: [Alexandria city, Virginia] / [139966]
+key/value: [Albuquerque city, New Mexico] / [545852]
+
+TABLE[221]:
+key/value: [Ocala city, Florida] / [56315]
+key/value: [Oceanside city, California] / [167086]
+
+TABLE[222]:
+
+TABLE[223]:
+
+TABLE[224]:
+
+TABLE[225]:
+
+TABLE[226]:
+
+TABLE[227]:
+
+TABLE[228]:
+key/value: [Tulare city, California] / [59278]
+key/value: [Turlock city, California] / [68549]
+key/value: [Tustin city, California] / [75540]
+key/value: [Tuscaloosa city, Alabama] / [90468]
+key/value: [Tulsa city, Oklahoma] / [391906]
+key/value: [Tucson city, Arizona] / [520116]
+
+TABLE[229]:
+
+TABLE[230]:
+key/value: [Vineland city, New Jersey] / [60724]
+key/value: [Victoria city, Texas] / [62592]
+key/value: [Vista city, California] / [93834]
+key/value: [Victorville city, California] / [115903]
+key/value: [Visalia city, California] / [124442]
+key/value: [Virginia Beach city, Virginia] / [437994]
+
+TABLE[231]:
+
+TABLE[232]:
+key/value: [Shoreline city, Washington] / [53007]
+key/value: [Shawnee city, Kansas] / [62209]
+key/value: [Shreveport city, Louisiana] / [199311]
+
+TABLE[233]:
+key/value: [Yakima city, Washington] / [91067]
+
+TABLE[234]:
+
+TABLE[235]:
+key/value: [Cicero town, Illinois] / [83891]
+key/value: [Citrus Heights city, California] / [83301]
+key/value: [Cincinnati city, Ohio] / [296943]
+
+TABLE[236]:
+
+TABLE[237]:
+key/value: [Coral Gables city, Florida] / [46780]
+key/value: [Collierville town, Tennessee] / [43965]
+key/value: [Coeur d'Alene city, Idaho] / [44137]
+key/value: [Colton city, California] / [52154]
+key/value: [Corvallis city, Oregon] / [54462]
+key/value: [Commerce City city, Colorado] / [45913]
+key/value: [Coconut Creek city, Florida] / [52909]
+key/value: [Council Bluffs city, Iowa] / [62230]
+key/value: [Coon Rapids city, Minnesota] / [61476]
+key/value: [Conway city, Arkansas] / [58908]
+key/value: [Conroe city, Texas] / [56207]
+key/value: [Compton city, California] / [96455]
+key/value: [Concord city, North Carolina] / [79066]
+key/value: [Costa Mesa city, California] / [109960]
+key/value: [College Station city, Texas] / [93857]
+key/value: [Columbia city, Missouri] / [108500]
+key/value: [Concord city, California] / [122067]
+key/value: [Columbia city, South Carolina] / [129272]
+key/value: [Coral Springs city, Florida] / [121096]
+key/value: [Corona city, California] / [152374]
+key/value: [Columbus city, Georgia] / [189885]
+key/value: [Corpus Christi city, Texas] / [305215]
+key/value: [Colorado Springs city, Colorado] / [416427]
+key/value: [Columbus city, Ohio] / [787033]
+
+TABLE[238]:
+
+TABLE[239]:
+key/value: [Cupertino city, California] / [58302]
+
+TABLE[240]:
+key/value: [Plainfield city, New Jersey] / [49808]
+key/value: [Placentia city, California] / [50533]
+key/value: [Plymouth city, Minnesota] / [70576]
+key/value: [Pleasanton city, California] / [70285]
+key/value: [Plantation city, Florida] / [84955]
+key/value: [Plano city, Texas] / [259841]
+
+TABLE[241]:
+
+TABLE[242]:
+
+TABLE[243]:
+
+TABLE[244]:
+
+TABLE[245]:
+
+TABLE[246]:
+
+TABLE[247]:
+key/value: [Smyrna town, Tennessee] / [39974]
+key/value: [Smyrna city, Georgia] / [51271]
+
+TABLE[248]:
+key/value: [Wheaton city, Illinois] / [52894]
+key/value: [White Plains city, New York] / [56853]
+key/value: [Whittier city, California] / [85331]
+
+TABLE[249]:
+
+TABLE[250]:
+key/value: [Knoxville city, Tennessee] / [178874]
+
+TABLE[251]:
+
+TABLE[252]:
+key/value: [Elkhart city, Indiana] / [50949]
+key/value: [Elyria city, Ohio] / [54533]
+key/value: [El Cajon city, California] / [99478]
+key/value: [Elgin city, Illinois] / [108188]
+key/value: [El Monte city, California] / [113475]
+key/value: [Elizabeth city, New Jersey] / [124969]
+key/value: [Elk Grove city, California] / [153015]
+key/value: [El Paso city, Texas] / [649121]
+
+TABLE[253]:
+
+TABLE[254]:
+
+TABLE[255]:
+key/value: [Gilroy city, California] / [48821]
+key/value: [Gilbert town, Arizona] / [208453]
+
+TABLE[256]:
+
+TABLE[257]:
+
+TABLE[258]:
+key/value: [Normal town, Illinois] / [52497]
+key/value: [Novato city, California] / [51904]
+key/value: [Novi city, Michigan] / [55224]
+key/value: [North Miami city, Florida] / [58786]
+key/value: [Noblesville city, Indiana] / [51969]
+key/value: [Jupiter town, Florida] / [55156]
+key/value: [North Little Rock city, Arkansas] / [62304]
+key/value: [North Richland Hills city, Texas] / [63343]
+key/value: [North Port city, Florida] / [57357]
+key/value: [Norwalk city, Connecticut] / [85603]
+key/value: [Norwalk city, California] / [105549]
+key/value: [Jurupa Valley city, California] / [0]
+key/value: [North Charleston city, South Carolina] / [97471]
+key/value: [Norman city, Oklahoma] / [110925]
+key/value: [Norfolk city, Virginia] / [242803]
+key/value: [North Las Vegas city, Nevada] / [216961]
+
+TABLE[259]:
+
+TABLE[260]:
+key/value: [Utica city, New York] / [62235]
+
+TABLE[261]:
+
+TABLE[262]:
+
+TABLE[263]:
+
+TABLE[264]:
+
+TABLE[265]:
+
+TABLE[266]:
+key/value: [Beaumont city, California] / [36877]
+key/value: [Bellevue city, Nebraska] / [50137]
+key/value: [Berwyn city, Illinois] / [56657]
+key/value: [Bentonville city, Arkansas] / [35301]
+key/value: [Bethlehem city, Pennsylvania] / [74982]
+key/value: [Bellflower city, California] / [76616]
+key/value: [Bellingham city, Washington] / [80885]
+key/value: [Erie city, Pennsylvania] / [101786]
+key/value: [Beaverton city, Oregon] / [89803]
+key/value: [Bend city, Oregon] / [76639]
+key/value: [Beaumont city, Texas] / [118296]
+key/value: [Berkeley city, California] / [112580]
+key/value: [Bellevue city, Washington] / [122363]
+
+TABLE[267]:
+
+TABLE[268]:
+
+TABLE[269]:
+key/value: [Madison city, Alabama] / [42938]
+key/value: [Maricopa city, Arizona] / [43482]
+key/value: [Manhattan city, Kansas] / [52281]
+key/value: [Margate city, Florida] / [53284]
+key/value: [Malden city, Massachusetts] / [59450]
+key/value: [Marietta city, Georgia] / [56579]
+key/value: [Madera city, California] / [61416]
+key/value: [Marysville city, Washington] / [60020]
+key/value: [Mansfield city, Texas] / [56368]
+key/value: [Maple Grove city, Minnesota] / [61567]
+key/value: [Manteca city, California] / [67096]
+key/value: [Manchester city, New Hampshire] / [109565]
+key/value: [Macon-Bibb County, Georgia] / [0]
+key/value: [Madison city, Wisconsin] / [233209]
+
+TABLE[270]:
+key/value: [Federal Way city, Washington] / [89306]
+
+TABLE[271]:
+
+TABLE[272]:
+
+TABLE[273]:
+
+TABLE[274]:
+key/value: [Jersey City city, New Jersey] / [247597]
+
+TABLE[275]:
+key/value: [Kingsport city, Tennessee] / [48205]
+key/value: [Kissimmee city, Florida] / [59682]
+key/value: [Asheville city, North Carolina] / [83393]
+key/value: [Kirkland city, Washington] / [48787]
+key/value: [Killeen city, Texas] / [127921]
+
+TABLE[276]:
+
+TABLE[277]:
+key/value: [Queen Creek town, Arizona] / [26361]
+key/value: [Quincy city, Massachusetts] / [92271]
+
+TABLE[278]:
+key/value: [Newark city, Ohio] / [47573]
+key/value: [New Brunswick city, New Jersey] / [55181]
+key/value: [New Britain city, Connecticut] / [73206]
+key/value: [New Rochelle city, New York] / [77062]
+key/value: [Newport Beach city, California] / [85186]
+key/value: [Newton city, Massachusetts] / [85146]
+key/value: [New Braunfels city, Texas] / [57740]
+key/value: [New Bedford city, Massachusetts] / [95072]
+key/value: [New Haven city, Connecticut] / [129779]
+key/value: [Newport News city, Virginia] / [180719]
+key/value: [Newark city, New Jersey] / [277140]
+key/value: [New Orleans city, Louisiana] / [343829]
+key/value: [New York city, New York] / [8175133]
+
+TABLE[279]:
+key/value: [Youngstown city, Ohio] / [66982]
+key/value: [Yorba Linda city, California] / [64234]
+key/value: [Yonkers city, New York] / [195976]
+
+TABLE[280]:
+key/value: [Oxnard city, California] / [197899]
+
+TABLE[281]:
+key/value: [Goodyear city, Arizona] / [65275]
+key/value: [O'Fallon city, Missouri] / [79329]
+
+TABLE[282]:
+key/value: [Revere city, Massachusetts] / [51755]
+key/value: [Redondo Beach city, California] / [66748]
+key/value: [Redlands city, California] / [68747]
+key/value: [Redmond city, Washington] / [54144]
+key/value: [Redwood City city, California] / [76815]
+key/value: [Reading city, Pennsylvania] / [88082]
+key/value: [Redding city, California] / [89861]
+key/value: [Renton city, Washington] / [90927]
+key/value: [Reno city, Nevada] / [225221]
+
+TABLE[283]:
+
+TABLE[284]:
+
+TABLE[285]:
+key/value: [Ames city, Iowa] / [58965]
+key/value: [Oshkosh city, Wisconsin] / [66083]
+key/value: [Amarillo city, Texas] / [190695]
+
+TABLE[286]:
+
+TABLE[287]:
+
+TABLE[288]:
+
+TABLE[289]:
+
+TABLE[290]:
+key/value: [Ontario city, California] / [163924]
+
+TABLE[291]:
+
+TABLE[292]:
+
+TABLE[293]:
+key/value: [Eastvale city, California] / [0]
+key/value: [East Orange city, New Jersey] / [64270]
+key/value: [Eagan city, Minnesota] / [64206]
+key/value: [Eau Claire city, Wisconsin] / [65883]
+
+TABLE[294]:
+
+TABLE[295]:
+
+TABLE[296]:
+
+TABLE[297]:
+
+TABLE[298]:
+
+TABLE[299]:
+
+TABLE[300]:
+key/value: [Odessa city, Texas] / [99940]
+
+TABLE[301]:
+
+TABLE[302]:
+key/value: [Rocky Mount city, North Carolina] / [57477]
+key/value: [Rosemead city, California] / [53764]
+key/value: [Royal Oak city, Michigan] / [57236]
+key/value: [Rowlett city, Texas] / [56199]
+key/value: [Rockville city, Maryland] / [61209]
+key/value: [Rogers city, Arkansas] / [55964]
+key/value: [Rocklin city, California] / [56974]
+key/value: [Rochester Hills city, Michigan] / [70995]
+key/value: [Rock Hill city, South Carolina] / [66154]
+key/value: [Roswell city, Georgia] / [88346]
+key/value: [Roanoke city, Virginia] / [97032]
+key/value: [Rochester city, Minnesota] / [106769]
+key/value: [Round Rock city, Texas] / [99887]
+key/value: [Roseville city, California] / [118788]
+key/value: [Rockford city, Illinois] / [152871]
+key/value: [Rochester city, New York] / [210565]
+
+TABLE[303]:
+
+TABLE[304]:
+
+TABLE[305]:
+
+TABLE[306]:
+
+TABLE[307]:
+key/value: [Gulfport city, Mississippi] / [67793]
+
+TABLE[308]:
+
+TABLE[309]:
+
+TABLE[310]:
+
+TABLE[311]:
+
+TABLE[312]:
+
+TABLE[313]:
+
+TABLE[314]:
+
+TABLE[315]:
+key/value: [Sioux City city, Iowa] / [82684]
+key/value: [Simi Valley city, California] / [124237]
+key/value: [Sioux Falls city, South Dakota] / [153888]
+
+TABLE[316]:
+
+TABLE[317]:
+
+TABLE[318]:
+
+TABLE[319]:
+
+TABLE[320]:
+key/value: [Upland city, California] / [73732]
+key/value: [Pharr city, Texas] / [70400]
+key/value: [Provo city, Utah] / [112488]
+key/value: [Providence city, Rhode Island] / [178042]
+key/value: [Philadelphia city, Pennsylvania] / [1526006]
+key/value: [Phoenix city, Arizona] / [1445632]
+
+TABLE[321]:
+
+TABLE[322]:
+key/value: [Irving city, Texas] / [216290]
+key/value: [Irvine city, California] / [212375]
+
+TABLE[323]:
+
+TABLE[324]:
+key/value: [Brookhaven city, Georgia] / [0]
+key/value: [Bradenton city, Florida] / [49546]
+key/value: [Bristol city, Connecticut] / [60477]
+key/value: [Brentwood city, California] / [51481]
+key/value: [Broomfield city, Colorado] / [55889]
+key/value: [Brooklyn Park city, Minnesota] / [75781]
+key/value: [Bryan city, Texas] / [76201]
+key/value: [Brockton city, Massachusetts] / [93810]
+key/value: [Broken Arrow city, Oklahoma] / [98850]
+key/value: [Bridgeport city, Connecticut] / [144229]
+key/value: [Brownsville city, Texas] / [175023]
+
+TABLE[325]:
+key/value: [Kokomo city, Indiana] / [45468]
+
+TABLE[326]:
+
+TABLE[327]:
+
+TABLE[328]:
+key/value: [Blue Springs city, Missouri] / [52575]
+key/value: [Blaine city, Minnesota] / [57186]
+key/value: [Bloomington city, Illinois] / [76610]
+key/value: [Bloomington city, Minnesota] / [82893]
+key/value: [Bloomington city, Indiana] / [80405]
+
+TABLE[329]:
+
+TABLE[330]:
+
+TABLE[331]:
+
+TABLE[332]:
+
+TABLE[333]:
+
+TABLE[334]:
+
+TABLE[335]:
+key/value: [Wilmington city, Delaware] / [70851]
+key/value: [Wichita Falls city, Texas] / [104553]
+key/value: [Wilmington city, North Carolina] / [106476]
+key/value: [Escondido city, California] / [143911]
+key/value: [Winston-Salem city, North Carolina] / [229617]
+key/value: [Wichita city, Kansas] / [382368]
+
+TABLE[336]:
+key/value: [Thousand Oaks city, California] / [126683]
+key/value: [Thornton city, Colorado] / [118772]
+
+TABLE[337]:
+
+TABLE[338]:
+
+TABLE[339]:
+
+TABLE[340]:
+key/value: [Diamond Bar city, California] / [55544]
+key/value: [Athens-Clarke County unified government (balance), Georgia] / [115452]
+key/value: [Atlanta city, Georgia] / [420003]
+
+TABLE[341]:
+
+TABLE[342]:
+key/value: [Valdosta city, Georgia] / [54518]
+key/value: [Vacaville city, California] / [92428]
+key/value: [Vallejo city, California] / [115942]
+key/value: [Vancouver city, Washington] / [161791]
+
+TABLE[343]:
+
+TABLE[344]:
+
+TABLE[345]:
+
+TABLE[346]:
+
+TABLE[347]:
+
+TABLE[348]:
+key/value: [Doral city, Florida] / [45704]
+key/value: [Dothan city, Alabama] / [65496]
+key/value: [Downey city, California] / [111772]
+
+TABLE[349]:
+
+TABLE[350]:
+key/value: [Anderson city, Indiana] / [56129]
+key/value: [Ankeny city, Iowa] / [45582]
+key/value: [Antioch city, California] / [102372]
+key/value: [Ann Arbor city, Michigan] / [113934]
+key/value: [Anchorage municipality, Alaska] / [291826]
+key/value: [Anaheim city, California] / [336265]
+
+TABLE[351]:
+
+TABLE[352]:
+
+TABLE[353]:
+
+TABLE[354]:
+key/value: [Rancho Cordova city, California] / [64776]
+key/value: [Racine city, Wisconsin] / [78860]
+key/value: [Rapid City city, South Dakota] / [67956]
+key/value: [Rancho Cucamonga city, California] / [165269]
+key/value: [Raleigh city, North Carolina] / [403892]
+
+TABLE[355]:
+
+TABLE[356]:
+key/value: [Dubuque city, Iowa] / [57637]
+key/value: [Dublin city, California] / [46036]
+key/value: [Duluth city, Minnesota] / [86265]
+key/value: [Durham city, North Carolina] / [228330]
+
+TABLE[357]:
+
+TABLE[358]:
+
+TABLE[359]:
+
+TABLE[360]:
+key/value: [Florissant city, Missouri] / [52158]
+key/value: [Highland city, California] / [53104]
+key/value: [Flagstaff city, Arizona] / [65870]
+key/value: [Flower Mound town, Texas] / [64669]
+key/value: [Flint city, Michigan] / [102434]
+key/value: [Hillsboro city, Oregon] / [91611]
+key/value: [High Point city, North Carolina] / [104371]
+key/value: [Hialeah city, Florida] / [224669]
+
+TABLE[361]:
+
+TABLE[362]:
+
+TABLE[363]:
+
+TABLE[364]:
+
+TABLE[365]:
+
+TABLE[366]:
+key/value: [National City city, California] / [58582]
+key/value: [Napa city, California] / [76915]
+key/value: [Nashua city, New Hampshire] / [86494]
+key/value: [Nampa city, Idaho] / [81557]
+key/value: [Naperville city, Illinois] / [141853]
+key/value: [Nashville-Davidson metropolitan government (balance), Tennessee] / [601222]
+
+TABLE[367]:
+key/value: [Cerritos city, California] / [49041]
+key/value: [Cedar Park city, Texas] / [48937]
+key/value: [Centennial city, Colorado] / [100377]
+key/value: [Cedar Rapids city, Iowa] / [126326]
+
+TABLE[368]:
+
+TABLE[369]:
+
+TABLE[370]:
+key/value: [Abilene city, Texas] / [117063]
+
+TABLE[371]:
+key/value: [Georgetown city, Texas] / [47400]
+
+TABLE[372]:
+
+TABLE[373]:
+
+TABLE[374]:
+
+TABLE[375]:
+key/value: [Kentwood city, Michigan] / [48707]
+key/value: [Kettering city, Ohio] / [56163]
+key/value: [Kenner city, Louisiana] / [66702]
+key/value: [Kennewick city, Washington] / [73917]
+key/value: [Kenosha city, Wisconsin] / [99218]
+key/value: [Kent city, Washington] / [92411]
+
+TABLE[376]:
+key/value: [Troy city, New York] / [50129]
+key/value: [Trenton city, New Jersey] / [84913]
+key/value: [Troy city, Michigan] / [80980]
+key/value: [Tracy city, California] / [82922]
+
+TABLE[377]:
+
+TABLE[378]:
+key/value: [Janesville city, Wisconsin] / [63575]
+key/value: [Jackson city, Tennessee] / [65211]
+key/value: [Jacksonville city, North Carolina] / [70145]
+key/value: [Jackson city, Mississippi] / [173514]
+key/value: [Jacksonville city, Florida] / [821784]
+
+TABLE[379]:
+
+TABLE[380]:
+key/value: [Little Elm city, Texas] / [25898]
+key/value: [Frederick city, Maryland] / [65239]
+key/value: [Framingham city, Massachusetts] / [0]
+key/value: [Franklin city, Tennessee] / [62487]
+key/value: [Livermore city, California] / [80968]
+key/value: [Livonia city, Michigan] / [96942]
+key/value: [Little Rock city, Arkansas] / [193524]
+key/value: [Frisco city, Texas] / [116989]
+key/value: [Fremont city, California] / [214089]
+key/value: [Lincoln city, Nebraska] / [258379]
+key/value: [Fresno city, California] / [494665]
+
+TABLE[381]:
+
+TABLE[382]:
+
+TABLE[383]:
+key/value: [Seattle city, Washington] / [608660]
+
+TABLE[384]:
+
+TABLE[385]:
+
+TABLE[386]:
+
+TABLE[387]:
+key/value: [West Lafayette city, Indiana] / [29596]
+key/value: [West New York town, New Jersey] / [49708]
+key/value: [West Sacramento city, California] / [48744]
+key/value: [West Haven city, Connecticut] / [55564]
+key/value: [Weymouth Town city, Massachusetts] / [53743]
+key/value: [West Allis city, Wisconsin] / [60411]
+key/value: [Wellington village, Florida] / [56508]
+key/value: [West Des Moines city, Iowa] / [56609]
+key/value: [Weston city, Florida] / [65333]
+key/value: [Westland city, Michigan] / [84094]
+key/value: [Westminster city, California] / [89701]
+key/value: [West Covina city, California] / [106098]
+key/value: [West Palm Beach city, Florida] / [99919]
+key/value: [Westminster city, Colorado] / [106114]
+key/value: [West Jordan city, Utah] / [103712]
+key/value: [West Valley City city, Utah] / [129480]
+
+TABLE[388]:
+
+TABLE[389]:
+
+TABLE[390]:
+key/value: [Enid city, Oklahoma] / [49379]
+key/value: [Encinitas city, California] / [59518]
+key/value: [Farmington Hills city, Michigan] / [79740]
+key/value: [Fayetteville city, Arkansas] / [73580]
+key/value: [Fall River city, Massachusetts] / [88857]
+key/value: [Fairfield city, California] / [105321]
+key/value: [Fargo city, North Dakota] / [105549]
+key/value: [Fayetteville city, North Carolina] / [200564]
+
+TABLE[391]:
+
+TABLE[392]:
+key/value: [Hoffman Estates village, Illinois] / [51895]
+key/value: [Hoboken city, New Jersey] / [50005]
+key/value: [Homestead city, Florida] / [60512]
+key/value: [Hoover city, Alabama] / [81619]
+key/value: [Hollywood city, Florida] / [140768]
+key/value: [Houston city, Texas] / [2099451]
+
+TABLE[393]:
+
+TABLE[394]:
+
+TABLE[395]:
+
+TABLE[396]:
+key/value: [Twin Falls city, Idaho] / [44125]
+key/value: [Lynwood city, California] / [69772]
+key/value: [Lynchburg city, Virginia] / [75568]
+key/value: [Lynn city, Massachusetts] / [90329]
+
+TABLE[397]:
+
+TABLE[398]:
+
+TABLE[399]:
+
+========================
