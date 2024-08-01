@@ -1,5 +1,6 @@
-// Enter your name here
-// Enter your email here
+// Name: Nicholas Ung
+// Email: ung.n@northeastern.edu
+
 #include <stdio.h>
 #include <unistd.h>
 #include <pthread.h>
